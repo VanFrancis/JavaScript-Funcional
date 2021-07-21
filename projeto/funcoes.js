@@ -53,6 +53,28 @@ function removerElementosApenasNumero(array) {
     })
 }
 
+function removerSimbolos(simbolos) {
+    return function (array) {
+        return array.map(el => {
+            let textoSemSimbolos = el
+            simbolos.forEach(simbolos => {
+                textoSemSimbolos = textoSemSimbolos.split(simbolos).join('')
+            })
+            return textoSemSimbolos
+        })
+    }
+}
+
+function mesclarElementos(array) {
+    return array.join(' ')
+}
+
+function separarTextoPor(simbolo) {
+    return function (texto) {
+        return texto.split(simbolo)
+    }
+}
+
 module.exports = {
     lerDiretorio,
     lerArquivo,
@@ -60,5 +82,8 @@ module.exports = {
     elementosTerminadosCom,
     removerElementosVazio,
     removerElementoIncluir,
-    removerElementosApenasNumero
+    removerElementosApenasNumero,
+    removerSimbolos,
+    mesclarElementos,
+    separarTextoPor
 }

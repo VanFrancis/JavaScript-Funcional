@@ -9,4 +9,6 @@ fn.lerDiretorio(caminho)
     .then(conteudos => conteudos.join('\n')) //juntou tudo em uma string
     .then(todoConteudo => todoConteudo.split('\n')) //separando as linhas
     .then(linhas => fn.removerSeVazio(linhas))
+    .then(linhas => fn.removerSeIncluir(linhas, '-->'))
+    .then(linhas => fn.removerApenasNumero(linhas))
     .then(console.log)

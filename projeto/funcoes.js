@@ -4,9 +4,11 @@ const path = require('path');
 function lerDiretorio(caminho) {
     return new Promise((resolve, reject) => {
         try {
-            let arquivos = fs.readdirSync(caminho)
-            arquivos = arquivos.map(arquivo => path.join(caminho, arquivo))
-            resolve(arquivos)
+            const arquivos = fs.readdirSync(caminho)
+            const arquivosCompletos = arquivos.map(arquivo => {
+                return path.join(caminho, arquivo)
+            })
+            resolve(arquivosCompletos)
         } catch (error) {
             reject(error)
         }
@@ -55,11 +57,9 @@ function removerElementosApenasNumero(array) {
 function removerSimbolos(simbolos) {
     return function (array) {
         return array.map(el => {
-            let textoSemSimbolos = el
-            simbolos.forEach(simbolos => {
-                textoSemSimbolos = textoSemSimbolos.split(simbolos).join('')
-            })
-            return textoSemSimbolos
+            return simbolos.reduce((acc, simbolo) => {
+                return acc.split(simbolo).join('')
+            }, el)
         })
     }
 }
@@ -75,14 +75,21 @@ function separarTextoPor(simbolo) {
 }
 
 function agruparElementos(palavras) {
-    return Object.values(palavras.reduce((agrupamento, palavra) => {
+    return Object.values(palavras.reduce((acc, palavra) => {
         const el = palavra.toLowerCase()
-        const qtd = agrupamento[el] ? agrupamento[el].qtd + 1 : 1
-        agrupamento[el] = { elemento: el, qtd }
-        return agrupamento
+        const qtde = acc[el] ? acc[el].qtde + 1 : 1
+        acc[el] = { elemento: el, qtde }
+        return acc
     }, {}))
 }
 
+function ordernarPorAtribNumerico(attr, ordem = 'asc') {
+    return function (array) {
+        const asc = (obj1, obj2) => obj1[attr] - obj2[attr]
+        const desc = (obj1, obj2) => obj2[attr] - obj1[attr]
+        return [...array].sort(ordem === 'asc' ? asc : desc)
+    }
+}
 
 module.exports = {
     lerDiretorio,
@@ -95,5 +102,6 @@ module.exports = {
     removerSimbolos,
     mesclarElementos,
     separarTextoPor,
-    agruparElementos
+    agruparElementos,
+    ordernarPorAtribNumerico
 }

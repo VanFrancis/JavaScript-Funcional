@@ -10,7 +10,6 @@ const simbolos = [
 ]
 
 
-
 fn.lerDiretorio(caminho)
     .then(fn.elementosTerminadosCom('.srt'))
     .then(fn.lerArquivos) //retorna array com todo o texto
@@ -25,4 +24,5 @@ fn.lerDiretorio(caminho)
     .then(fn.removerElementosVazio)
     .then(fn.removerElementosApenasNumero)
     .then(fn.agruparElementos)
+    .then(fn.ordernarPorAtribNumerico('qtde', 'desc'))
     .then(console.log)

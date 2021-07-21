@@ -9,6 +9,8 @@ const simbolos = [
     '(', ')'
 ]
 
+
+
 fn.lerDiretorio(caminho)
     .then(fn.elementosTerminadosCom('.srt'))
     .then(fn.lerArquivos) //retorna array com todo o texto
@@ -21,4 +23,6 @@ fn.lerDiretorio(caminho)
     .then(fn.mesclarElementos)
     .then(fn.separarTextoPor(' '))
     .then(fn.removerElementosVazio)
+    .then(fn.removerElementosApenasNumero)
+    .then(fn.agruparElementos)
     .then(console.log)

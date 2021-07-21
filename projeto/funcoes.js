@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 
-
 function lerDiretorio(caminho) {
     return new Promise((resolve, reject) => {
         try {
@@ -75,6 +74,16 @@ function separarTextoPor(simbolo) {
     }
 }
 
+function agruparElementos(palavras) {
+    return Object.values(palavras.reduce((agrupamento, palavra) => {
+        const el = palavra.toLowerCase()
+        const qtd = agrupamento[el] ? agrupamento[el].qtd + 1 : 1
+        agrupamento[el] = { elemento: el, qtd }
+        return agrupamento
+    }, {}))
+}
+
+
 module.exports = {
     lerDiretorio,
     lerArquivo,
@@ -85,5 +94,6 @@ module.exports = {
     removerElementosApenasNumero,
     removerSimbolos,
     mesclarElementos,
-    separarTextoPor
+    separarTextoPor,
+    agruparElementos
 }

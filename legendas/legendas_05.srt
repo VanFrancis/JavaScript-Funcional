@@ -1,2669 +1,2831 @@
-1
-00:00:06,771 --> 00:00:07,938
-Ele fugiu.
+ï»¿1
+00:00:00,746 --> 00:00:02,358
+Peralta, looks like
+an old friend of yours
 
 2
-00:00:08,896 --> 00:00:11,354
-ANTERIORMENTE EM
+00:00:02,402 --> 00:00:03,989
+- is back in town.
+- Who?
 
 3
-00:00:11,438 --> 00:00:12,438
-Tio Sam!
+00:00:04,025 --> 00:00:06,236
+That guy Neil that you bunked
+with at sleepaway camp?
 
 4
-00:00:12,521 --> 00:00:14,188
-Sam, o barco tem que ir.
+00:00:06,272 --> 00:00:07,914
+Oh, Neil from camp was the best.
 
 5
-00:00:14,271 --> 00:00:16,771
-Faço tudo para manter funcionando.
+00:00:07,950 --> 00:00:10,038
+He could pick up a milk carton
+with his butt cheeks.
 
 6
-00:00:16,854 --> 00:00:18,854
-Todo dia ganho cinco e gasto dez.
+00:00:10,074 --> 00:00:11,106
+He was so funny.
 
 7
-00:00:18,938 --> 00:00:21,146
-O escudo é um monumento ao passado.
+00:00:11,150 --> 00:00:13,021
+You know who else was funny? Bill Cosby.
 
 8
-00:00:21,229 --> 00:00:24,104
-Uma lembrança
-de quem a história deixou de fora.
+00:00:13,065 --> 00:00:15,272
+Charles, will you relax?
+You're gonna love Neil.
 
 9
-00:00:25,229 --> 00:00:27,104
-No mínimo, devia ser destruído.
+00:00:15,308 --> 00:00:16,832
+It's not Neil. Why would it be Neil?
 
 10
-00:00:27,188 --> 00:00:28,896
-Soube o que aconteceu com Sokovia.
+00:00:16,868 --> 00:00:18,984
+- It's Doug Judy.
+- Oh, right.
 
 11
-00:00:28,979 --> 00:00:32,104
-Imagino que nenhum de vocês
-tenha visitado o memorial?
+00:00:19,027 --> 00:00:21,025
+Someone we all know
+in a police capacity.
 
 12
-00:00:33,396 --> 00:00:34,396
-Claro que não.
+00:00:21,061 --> 00:00:22,117
+That makes more sense.
 
 13
-00:00:34,479 --> 00:00:37,188
-Está me dizendo
-que tinha um Super Soldado negro
+00:00:22,161 --> 00:00:24,467
+Someone's using his
+signature move to steal cars,
 
 14
-00:00:37,271 --> 00:00:39,021
-há décadas e ninguém sabia?
+00:00:24,503 --> 00:00:26,003
+plugging in to the OBD port
 
 15
-00:00:39,104 --> 00:00:41,188
-Sabe o que fizeram comigo?
+00:00:26,039 --> 00:00:27,775
+and reprogramming
+the immobilizer module.
 
 16
-00:00:41,271 --> 00:00:44,396
-Me puseram na prisão por 30 anos.
+00:00:27,819 --> 00:00:29,465
+That's Doug Judy's MO, but it's not him.
 
 17
-00:00:44,479 --> 00:00:45,813
-Por que desistiu do escudo?
+00:00:29,501 --> 00:00:31,052
+- He told me he went legit.
+- That's what he told you
 
 18
-00:00:45,896 --> 00:00:48,688
-Pode aceitar que fiz
-o que achei que fosse certo?
+00:00:31,088 --> 00:00:32,957
+last time too, before
+he screwed you over.
 
 19
-00:00:48,771 --> 00:00:50,604
-Karli Morgenthau, está presa.
+00:00:32,993 --> 00:00:34,829
+Yeah, but he returned
+the diamonds to me eventually,
 
 20
-00:00:50,688 --> 00:00:52,229
-- Era isso?
-- Não, espere...
+00:00:34,865 --> 00:00:36,078
+and it turned out that was the only way
 
 21
-00:00:52,313 --> 00:00:54,604
-- Me enganou?
-- Já falamos demais.
+00:00:36,114 --> 00:00:37,618
+to get Giggle Pig off the streets.
 
 22
-00:00:54,688 --> 00:00:55,979
-- Nazista.
-- Por que...
+00:00:37,654 --> 00:00:39,874
+Wait, I may be confusing our adventures.
+What year was the cruise?
 
 23
-00:00:56,896 --> 00:00:59,271
-Se tivesse a chance
-de tomar o soro, aceitaria?
+00:00:39,918 --> 00:00:41,810
+Dude's a criminal. People don't change.
 
 24
-00:00:59,354 --> 00:01:00,354
-É claro que sim.
+00:00:41,846 --> 00:00:43,585
+Ever heard of Bruce Banner,
+the Incredible Hulk?
 
 25
-00:01:00,438 --> 00:01:02,146
-Não se preocupa com como te mudaria?
+00:00:43,621 --> 00:00:44,951
+You might want to talk
+to his shirts and pants
 
 26
-00:01:02,229 --> 00:01:07,063
-O poder só faz a pessoa
-ser mais o que ela é, não é?
+00:00:44,987 --> 00:00:46,195
+about people not changing.
 
 27
-00:01:10,063 --> 00:01:11,438
-Ei, Lemar.
+00:00:47,357 --> 00:00:49,823
+Well, I want to ask Doug Judy
+some questions.
 
 28
-00:01:11,521 --> 00:01:14,313
-Lemar. Lemar. Lemar.
+00:00:49,859 --> 00:00:52,104
+- You have his number?
+- I always make contact through his mom.
 
 29
-00:01:16,771 --> 00:01:17,771
-Não fui eu!
+00:00:52,147 --> 00:00:53,758
+I'll put you in touch with her,
+but remember,
 
 30
-00:01:18,646 --> 00:01:19,646
-Não fui eu!
+00:00:53,801 --> 00:00:56,226
+she thinks I'm his assistant Mangy Carl,
 
 31
-00:02:15,688 --> 00:02:16,688
-Não fui eu!
+00:00:56,262 --> 00:00:57,978
+and he's a famous architect
+who's designing
 
 32
-00:02:43,729 --> 00:02:45,021
-Você me avisou.
+00:00:58,014 --> 00:01:00,146
+LeBron James' new school
+for black astronauts.
 
 33
-00:02:46,604 --> 00:02:47,938
-Não queria que entrasse.
+00:01:01,417 --> 00:01:03,234
+Hello, Mrs. Judy?
 
 34
-00:02:48,729 --> 00:02:50,813
-- Por que não ouvi?
-- Você está bem?
+00:01:03,855 --> 00:01:06,031
+I'm looking for your son, the architect.
 
 35
-00:02:51,438 --> 00:02:54,063
-Esse traje,
-ele vem com expectativas, irmão.
+00:01:06,074 --> 00:01:08,511
+Yes, I'm from... black NASA.
 
 36
-00:02:54,146 --> 00:02:55,479
-Por quê?
+00:01:08,555 --> 00:01:09,512
+Is that a thing?
 
 37
-00:02:56,354 --> 00:02:58,479
-Olhe, sei que quer isso. Eu entendo.
+00:01:09,556 --> 00:01:11,906
+Oh, my. I didn't know.
 
 38
-00:02:58,563 --> 00:03:02,521
-Você consistentemente toma decisões certas
-no calor da batalha.
+00:01:11,950 --> 00:01:13,821
+I understand. Good-bye.
 
 39
-00:03:11,313 --> 00:03:12,479
-Hora de trabalhar.
+00:01:15,329 --> 00:01:18,158
+So Doug Judy will not be coming in.
 
 40
-00:03:34,729 --> 00:03:35,979
-Hora de trabalhar.
+00:01:18,194 --> 00:01:19,152
+What? Why not?
 
 41
-00:03:39,354 --> 00:03:40,438
-Walker...
+00:01:19,212 --> 00:01:20,828
+Oh, I see.
 
 42
-00:03:42,396 --> 00:03:44,604
-Deviam ver um médico, não parecem bem.
+00:01:21,153 --> 00:01:22,308
+He is dead.
 
 43
-00:03:44,688 --> 00:03:45,688
-Pare, Walker.
+00:01:36,714 --> 00:01:40,714
+<font color="#741b47">Sync & corrections by </font><font color="#ead1dc">emeline-whovian</font>
+<font color="#741b47">www.addic7ed.com</font>
 
 44
-00:03:48,188 --> 00:03:49,521
-O quê?
+00:01:42,623 --> 00:01:45,547
+Wow, I don't know how to deal
+with all these emotions, Terry.
 
 45
-00:03:49,604 --> 00:03:52,313
-Viram o que aconteceu.
-Sabem o que tinha que fazer.
+00:01:45,583 --> 00:01:47,312
+No one I've been close with
+has ever died before.
 
 46
-00:03:52,396 --> 00:03:56,271
-Eu o matei porque precisei!
-Ele matou o Lemar!
+00:01:47,348 --> 00:01:50,335
+No tragic accidents to friends.
+All my grandparents are alive.
 
 47
-00:03:56,354 --> 00:03:57,646
-Ele não matou o Lemar.
+00:01:50,371 --> 00:01:51,666
+How did you deal when Hodor died?
 
 48
-00:03:59,563 --> 00:04:02,854
-Não siga esse caminho.
-Acredite em mim, não acaba bem.
+00:01:51,702 --> 00:01:54,122
+Not well, Terry.
+Why would you bring that up?
 
 49
-00:04:02,938 --> 00:04:03,938
-Não sou como você.
+00:01:54,387 --> 00:01:56,342
+Carl? Mangy Carl?
 
 50
-00:04:05,396 --> 00:04:07,729
-Foi no calor da batalha. Está bem?
+00:01:56,605 --> 00:01:58,651
+Yes. That is me.
 
 51
-00:04:07,813 --> 00:04:10,854
-Se explicar,
-podem considerar seu histórico.
+00:01:58,687 --> 00:02:00,692
+I'm Trudy Judy, Doug's sister.
 
 52
-00:04:11,479 --> 00:04:14,188
-Não queremos que mais ninguém se machuque.
+00:02:00,728 --> 00:02:02,043
+This is our aunt Patrice.
 
 53
-00:04:16,104 --> 00:04:17,396
-John...
+00:02:02,087 --> 00:02:03,623
+I'm so glad you could make it.
 
 54
-00:04:24,354 --> 00:04:26,938
-Você tem que me dar o escudo, cara.
+00:02:03,659 --> 00:02:05,210
+Doug really loved you.
 
 55
-00:04:35,813 --> 00:04:37,896
-Então é isso.
+00:02:05,246 --> 00:02:08,180
+- Oh, he talked about me?
+- Oh, all the time.
 
 56
-00:04:40,229 --> 00:04:41,813
-Quase me pegaram.
+00:02:08,223 --> 00:02:11,139
+He was so afraid he'd fall
+back into your old life.
 
 57
-00:04:42,604 --> 00:04:44,021
-Você cometeu um erro.
+00:02:11,183 --> 00:02:14,273
+Doug made Mangy Carl an assistant
+at the architecture firm.
 
 58
-00:04:45,896 --> 00:04:47,271
-Não querem fazer isso.
+00:02:14,441 --> 00:02:16,443
+He rescued him
+from a life on the streets.
 
 59
-00:04:48,854 --> 00:04:50,479
-Sim, nós queremos.
+00:02:16,484 --> 00:02:19,422
+Yeah, I was down on my luck,
+not a penny to my name.
 
 60
-00:05:44,563 --> 00:05:45,896
-Por que me força a isso?
+00:02:19,458 --> 00:02:21,594
+- You were selling your body for money.
+- Did Doug tell you that?
 
 61
-00:05:47,146 --> 00:05:48,479
-Por quê?
+00:02:21,630 --> 00:02:22,977
+He said all your teeth fell out,
 
 62
-00:06:01,521 --> 00:06:02,604
-Esse não é você, John.
+00:02:23,021 --> 00:02:24,500
+and your mouth was just a rotten hole.
 
 63
-00:06:05,729 --> 00:06:07,229
-Poderíamos ter sido uma equipe.
+00:02:24,990 --> 00:02:26,328
+100% accurate.
 
 64
-00:06:47,771 --> 00:06:50,604
-Eu sou o Capitão América!
+00:02:26,372 --> 00:02:28,648
+Plus you were sick from
+those back-alley butt implants.
 
 65
-00:07:29,396 --> 00:07:30,396
-Não!
+00:02:28,684 --> 00:02:30,743
+- Had to have 'em.
+- Carl thought a plumper rump
 
 66
-00:07:37,646 --> 00:07:38,646
-É meu.
+00:02:30,779 --> 00:02:32,892
+would help him get his [bleep]
+every night.
 
 67
-00:07:39,854 --> 00:07:40,854
-Acabou, John.
+00:02:32,928 --> 00:02:34,583
+Yeah, I remember having that thought.
 
 68
-00:07:40,938 --> 00:07:41,938
-É meu.
+00:02:34,619 --> 00:02:36,908
+But the doctor just put
+a bunch of mulch up there,
 
 69
-00:09:06,021 --> 00:09:12,188
-FALCÃO E O SOLDADO INVERNAL
+00:02:36,944 --> 00:02:38,865
+- and it got all infected.
+- Dark days.
 
 70
-00:09:16,896 --> 00:09:20,438
-O CRG está realizando operações
-para encontrar a Karli,
+00:02:38,901 --> 00:02:41,996
+I'm sorry. It's just so sweet.
 
 71
-00:09:20,521 --> 00:09:23,188
-mas até agora
-só encontraram seus seguidores.
+00:02:42,040 --> 00:02:44,651
+- The mulch thing?
+- No, how Doug saved him.
 
 72
-00:09:23,271 --> 00:09:24,854
-Revistaram esse acampamento,
+00:02:44,877 --> 00:02:47,654
+Doug was always taking people
+under his wing.
 
 73
-00:09:24,938 --> 00:09:28,438
-e assim como o último acampamento, nada.
+00:02:47,898 --> 00:02:50,004
+Doug said you have a beautiful voice.
 
 74
-00:09:28,521 --> 00:09:30,896
-Ela sumiu. Nunca a encontraremos.
+00:02:50,048 --> 00:02:51,397
+Oh, he did? Well, I...
 
 75
-00:09:32,771 --> 00:09:34,313
-Recuperou sua manga.
+00:02:51,793 --> 00:02:53,447
+â™ª Suppose that's true â™ª
 
 76
-00:09:37,688 --> 00:09:40,188
-Está indo cuidar do Zemo?
+00:02:53,483 --> 00:02:55,229
+Would you want to sing a song for us?
 
 77
-00:09:42,354 --> 00:09:44,229
-É bom saber que sobreviveu.
+00:02:55,265 --> 00:02:56,333
+What a nice thought,
 
 78
-00:09:47,063 --> 00:09:49,438
-Quais são os próximos passos, Torres?
+00:02:56,369 --> 00:02:58,367
+but you know what, I don't
+have anything prepared.
 
 79
-00:09:49,521 --> 00:09:52,854
-O Capitão América
-matou um estrangeiro em público,
+00:02:58,403 --> 00:02:59,925
+Okay, well, if you don't want to sing,
 
 80
-00:09:52,938 --> 00:09:54,313
-isso é grave.
+00:02:59,961 --> 00:03:01,693
+you could just tell us
+the inspiring story
 
 81
-00:09:54,396 --> 00:09:58,063
-Tipo incidente internacional.
+00:03:01,729 --> 00:03:04,366
+of how Doug saved you
+from being a mulch-butt ho.
 
 82
-00:09:58,146 --> 00:10:03,396
-Pessoas acima na folha de pagamento
-estão em cima. Então, infelizmente...
+00:03:04,410 --> 00:03:07,492
+I would like to sing a song
+in honor of my dear friend
 
 83
-00:10:03,479 --> 00:10:05,021
-Estão assumindo a jurisdição.
+00:03:07,528 --> 00:03:08,631
+Doug Judy.
 
 84
-00:10:05,604 --> 00:10:06,604
-Sim.
+00:03:09,082 --> 00:03:11,063
+Oh, nothing better after a long shift
 
 85
-00:10:08,354 --> 00:10:10,313
-O que aconteceu com elas?
+00:03:11,099 --> 00:03:12,287
+than coming to Shaw's.
 
 86
-00:10:13,729 --> 00:10:16,521
-- Tem algo que possamos fazer?
-- Na verdade, não.
+00:03:12,331 --> 00:03:14,619
+It's like Cheers, where
+everybody knows your name.
 
 87
-00:10:18,521 --> 00:10:22,479
-Como pode ver, isolaram
-todo o acampamento, e Karli é um fantasma.
+00:03:14,655 --> 00:03:16,141
+A place where everybody
+knows your name is hell.
 
 88
-00:10:22,563 --> 00:10:27,604
-Depois do que aconteceu,
-ela está bem escondida.
+00:03:16,177 --> 00:03:18,380
+- You're describing hell.
+- Guys, guys, guys.
 
 89
-00:10:27,688 --> 00:10:29,521
-Tipo, mais do que nunca.
+00:03:18,424 --> 00:03:19,686
+Are those...
 
 90
-00:10:29,604 --> 00:10:32,063
-Por isso que faz sentido nos envolvermos.
+00:03:19,729 --> 00:03:21,122
+Firefighters.
 
 91
-00:10:32,146 --> 00:10:35,021
-Quanto mais se reagrupar,
-mais difícil vai ser.
+00:03:21,312 --> 00:03:22,574
+Hey, what's going on?
 
 92
-00:10:35,104 --> 00:10:39,813
-Ela tem pessoas a ajudando
-no mundo todo, em todas as plataformas.
+00:03:22,610 --> 00:03:24,434
+Why is the FDNY in our cop bar?
 
 93
-00:10:39,896 --> 00:10:43,146
-Ela é muito, muito boa nisso.
+00:03:24,470 --> 00:03:27,480
+We needed a new place,
+since our bar, O'Brien's, burned down.
 
 94
-00:10:43,229 --> 00:10:44,313
-É.
+00:03:27,516 --> 00:03:29,214
+- You couldn't put that out?
+- They probably started it.
 
 95
-00:10:46,354 --> 00:10:47,646
-Como elas quebraram?
+00:03:29,250 --> 00:03:30,958
+Most arsonists turn out
+to be firefighters.
 
 96
-00:10:50,104 --> 00:10:54,104
-De qualquer forma, tudo o que podemos
-fazer agora é parar e relaxar.
+00:03:31,002 --> 00:03:32,960
+That's not true,
+though it is very common,
 
 97
-00:10:54,188 --> 00:10:57,563
-Às vezes, não há nada para fazer
-até que surja alguma coisa.
+00:03:33,004 --> 00:03:34,396
+and definitely what happened
+in this case.
 
 98
-00:10:57,646 --> 00:10:59,354
-Isso é bizarramente sábio.
+00:03:34,440 --> 00:03:35,702
+I'm surprised you guys
+even want to come here
 
 99
-00:11:00,271 --> 00:11:03,021
-- Sou um homem bizarramente sábio.
-- É, tudo bem.
+00:03:35,745 --> 00:03:37,182
+since you have to take the stairs.
 
 100
-00:11:10,604 --> 00:11:13,521
-- Obrigado, Torres.
-- De nada.
+00:03:37,225 --> 00:03:39,053
+I know how much you like
+sliding on poles.
 
 101
-00:11:14,938 --> 00:11:16,521
-Espere, esqueceu as asas.
+00:03:39,097 --> 00:03:40,489
+We don't like sliding on poles.
 
 102
-00:11:17,604 --> 00:11:18,771
-Pode ficar.
+00:03:40,533 --> 00:03:42,535
+We do it to save lives. It's dangerous.
 
 103
-00:11:34,063 --> 00:11:37,271
-John F. Walker, é a ordem desse conselho
+00:03:42,578 --> 00:03:44,058
+You can ask my best friend Steve.
 
 104
-00:11:37,354 --> 00:11:40,813
-que não pode mais agir
-em qualquer instância
+00:03:44,287 --> 00:03:46,202
+Oh, no, wait, you can't, actually,
 
 105
-00:11:40,896 --> 00:11:44,479
-como representante do governo
-dos EUA ou de seu exército.
+00:03:46,238 --> 00:03:47,496
+because he's dead.
 
 106
-00:11:44,563 --> 00:11:49,104
-Está por meio deste destituído do título
-e autoridade como Capitão América,
+00:03:47,540 --> 00:03:49,410
+Tripped through a pole hole,
+broke his neck.
 
 107
-00:11:49,188 --> 00:11:51,938
-em efeito imediato.
+00:03:49,446 --> 00:03:50,641
+That's horrible.
 
 108
-00:11:52,021 --> 00:11:56,479
-Senador, permissão para apresentar
-ao conselho um testemunho
+00:03:50,677 --> 00:03:52,414
+Sorry, but this is
+a firefighter bar now.
 
 109
-00:11:56,563 --> 00:11:58,729
-das circunstâncias do incidente.
+00:03:52,458 --> 00:03:54,828
+Although we might want to make
+some changes to the decor.
 
 110
-00:11:58,813 --> 00:12:01,563
-Circunstâncias do incidente
-foram consideradas.
+00:03:54,864 --> 00:03:56,737
+I'm thinking some old-timey
+pressure gauges,
 
 111
-00:12:01,646 --> 00:12:06,063
-É apenas devido ao seu
-serviço prévio exemplar a esse país
+00:03:56,773 --> 00:03:58,123
+maybe an autographed photo
 
 112
-00:12:06,146 --> 00:12:09,021
-que estou recomendando
-contra uma corte marcial.
+00:03:58,159 --> 00:03:59,639
+of Denis Leary from "Rescue Me."
 
 113
-00:12:09,104 --> 00:12:10,604
-Com todo o respeito, Senador,
+00:03:59,682 --> 00:04:01,642
+- You wouldn't.
+- Wouldn't I?
 
 114
-00:12:10,688 --> 00:12:14,604
-não acho que entenderam
-toda a gravidade da situação,
+00:04:02,120 --> 00:04:03,208
+Check it out.
 
 115
-00:12:14,688 --> 00:12:16,854
-e não compreenderam as circunstâncias...
+00:04:03,251 --> 00:04:04,992
+You son of a bitch.
 
 116
-00:12:16,938 --> 00:12:19,063
-- Isso não é uma negociação.
-- Entendo isso.
+00:04:05,036 --> 00:04:07,342
+â™ª Doug Judy â™ª
 
 117
-00:12:19,146 --> 00:12:21,521
-- Isso é uma ordem.
-- Só estou pedindo para ser ouvido.
+00:04:07,595 --> 00:04:11,709
+â™ª I wish you were alive, Doug Judy â™ª
 
 118
-00:12:21,604 --> 00:12:22,688
-Isso é uma ordem.
+00:04:12,130 --> 00:04:15,568
+â™ª God will give you a high five â™ª
 
 119
-00:12:22,771 --> 00:12:26,354
-Eu entendi isso! Eu entendi isso!
+00:04:15,611 --> 00:04:17,091
+â™ª Doug Judy â™ª
 
 120
-00:12:28,271 --> 00:12:34,396
-Vivi minha vida seguindo suas ordens!
-Dediquei minha vida aos seus comandos!
+00:04:17,135 --> 00:04:19,354
+Oh, no, he gave himself a key change.
 
 121
-00:12:35,563 --> 00:12:38,021
-Eu só fiz o que me pediram,
+00:04:19,398 --> 00:04:23,085
+â™ª Yeah, yeah, yeah, Doug Judy â™ª
 
 122
-00:12:38,104 --> 00:12:43,188
-o que me disseram para ser
-e me treinaram para fazer, e eu fiz.
+00:04:23,121 --> 00:04:25,833
+â™ª You're a friend, friend, friend â™ª
 
 123
-00:12:43,271 --> 00:12:45,021
-E fiz bem.
+00:04:25,869 --> 00:04:28,102
+â™ª Doug Judy! â™ª
 
 124
-00:12:48,771 --> 00:12:49,771
-Você receberá
+00:04:28,146 --> 00:04:33,368
+â™ª This song is at its end â™ª
 
 125
-00:12:49,854 --> 00:12:54,521
-uma dispensa desonrosa
-retroativa ao início do mês.
+00:04:33,412 --> 00:04:34,979
+Thank you so much.
+You've been a great audience.
 
 126
-00:12:54,604 --> 00:12:58,813
-Não terá patente na reserva
-e não receberá benefícios.
+00:04:35,022 --> 00:04:37,131
+I mean, it's a funeral.
+That's psychotic.
 
 127
-00:13:05,854 --> 00:13:07,604
-Vocês me criaram.
+00:04:37,167 --> 00:04:38,213
+I'm so sorry.
 
 128
-00:13:11,938 --> 00:13:16,813
-Senador, eu sou o Capitão América.
+00:04:38,955 --> 00:04:40,435
+Why are there firefighters here?
 
 129
-00:13:16,896 --> 00:13:18,354
-Não mais.
+00:04:40,471 --> 00:04:41,970
+Did one of them turn out
+to be an arsonist
 
 130
-00:13:20,604 --> 00:13:24,146
-E se continuar a diminuir ou rebaixar
+00:04:42,006 --> 00:04:43,635
+- and burn down their own bar?
+- Actually, yes.
 
 131
-00:13:24,229 --> 00:13:26,688
-as prioridades e a dignidade
-desse conselho,
+00:04:43,671 --> 00:04:45,077
+So predictable. But why did you call me?
 
 132
-00:13:26,771 --> 00:13:30,729
-vai passar o resto da sua vida
-no Quartel Disciplinar dos EUA.
+00:04:45,113 --> 00:04:46,207
+There's nothing I can do about this.
 
 133
-00:13:30,813 --> 00:13:34,146
-Se considere
-extremamente sortudo, Sr. Walker,
+00:04:46,251 --> 00:04:48,122
+You have gravitas.
+Everyone listens to you.
 
 134
-00:13:34,229 --> 00:13:37,729
-e devolva o escudo para nós sem demora.
+00:04:48,166 --> 00:04:50,992
+Look, even if I could save Shaw's,
+I'm not sure I'd want to.
 
 135
-00:13:45,271 --> 00:13:49,188
-Eles não sabem o que é preciso
-para ser o Capitão América,
+00:04:51,028 --> 00:04:52,648
+This place is a hovel.
 
 136
-00:13:49,271 --> 00:13:51,104
-simplesmente não sabem.
+00:04:52,692 --> 00:04:55,173
+The only wine they serve
+is from the Delaware Water Gap.
 
 137
-00:13:51,729 --> 00:13:55,188
-- Não vou apenas desaparecer.
-- Está bem, concentre-se.
+00:04:55,216 --> 00:04:56,905
+It's called "Charbonnay."
 
 138
-00:13:55,271 --> 00:14:00,521
-Faça as coisas uma de cada vez.
-Comece visitando os pais do Lemar.
+00:04:56,941 --> 00:04:59,017
+But this is our bar,
+and it has been forever.
 
 139
-00:14:00,604 --> 00:14:04,813
-Eles precisam te ver.
-E então, podemos construir...
+00:04:59,053 --> 00:05:00,185
+Change is a good thing.
 
 140
-00:14:16,438 --> 00:14:21,229
-Bom, essas botas
-não são feitas para caminhar.
+00:05:00,221 --> 00:05:01,396
+Just yesterday, you were ranting
 
 141
-00:14:21,313 --> 00:14:23,896
-Valentina Allegra de Fontaine.
+00:05:01,440 --> 00:05:03,311
+about the Philharmonic
+adding a second piccolo.
 
 142
-00:14:23,979 --> 00:14:28,354
-Na verdade, é
-Condessa Valentina Allegra de Fontaine.
+00:05:03,355 --> 00:05:04,900
+It's too many. It'll muddle the sound.
 
 143
-00:14:28,438 --> 00:14:31,271
-Sei que é difícil,
-mas não gosto de me repetir,
+00:05:04,936 --> 00:05:05,981
+I'm sorry I brought it up.
 
 144
-00:14:31,354 --> 00:14:32,896
-então me chame de Val.
+00:05:06,017 --> 00:05:07,663
+Look, we can find a new bar
 
 145
-00:14:32,979 --> 00:14:36,771
-Mas não me chame de Val, só lembre disso.
+00:05:07,707 --> 00:05:09,287
+that's not beneath us.
 
 146
-00:14:36,854 --> 00:14:37,854
-Eu vou...
+00:05:09,323 --> 00:05:10,536
+What about Bel Vino?
 
 147
-00:14:39,438 --> 00:14:41,021
-Olha...
+00:05:10,579 --> 00:05:12,501
+They've got a great
+selection of Italian reds,
 
 148
-00:14:42,729 --> 00:14:45,188
-Eu teria matado o desgraçado também.
+00:05:12,537 --> 00:05:14,010
+and your feet don't stick to the floor
 
 149
-00:14:45,271 --> 00:14:47,729
-Ninguém ali está bravo com você por isso.
+00:05:14,046 --> 00:05:15,323
+if you stand in one place too long.
 
 150
-00:14:47,813 --> 00:14:49,646
-Teria feito um favor a todos eles
+00:05:15,367 --> 00:05:17,499
+Fine. If you're not gonna
+do anything, then I will.
 
 151
-00:14:49,729 --> 00:14:51,979
-se tivesse acabado com o grupo todo.
+00:05:17,543 --> 00:05:19,529
+Hank, you got to get rid
+of these hose humpers.
 
 152
-00:14:52,063 --> 00:14:58,188
-Mas esses engravatados, sabe,
-têm todo um lance para proteger.
+00:05:19,565 --> 00:05:21,830
+- It's them or us.
+- Look, guys, I don't want to take sides.
 
 153
-00:14:58,271 --> 00:15:00,563
-Me desculpe. Quem é você?
+00:05:21,866 --> 00:05:23,027
+I just want to make money.
 
 154
-00:15:00,646 --> 00:15:04,854
-Enfim, você fez a coisa certa
+00:05:23,070 --> 00:05:25,186
+Then keep it a cop bar.
+We drink like crazy.
 
 155
-00:15:04,938 --> 00:15:06,229
-usando o soro.
+00:05:25,222 --> 00:05:27,161
+Yeah, 'cause of all
+the tragedy we experience
 
 156
-00:15:06,313 --> 00:15:09,021
-Sim, claro que sei.
-E vou te dizer uma coisa.
+00:05:27,205 --> 00:05:29,076
+on a daily basis, son.
 
 157
-00:15:09,104 --> 00:15:13,271
-Isso o tornou muito,
-muito valioso para certas pessoas.
+00:05:29,120 --> 00:05:32,210
+Oh, yeah? We experience
+plenty of tragedy too.
 
 158
-00:15:13,354 --> 00:15:16,104
-Realmente acho
-que foi a segunda melhor escolha
+00:05:32,253 --> 00:05:33,932
+We lose a man a year to the pole hole.
 
 159
-00:15:16,188 --> 00:15:18,229
-que já fez em sua vida.
+00:05:33,968 --> 00:05:35,387
+How about this?
 
 160
-00:15:18,313 --> 00:15:21,229
-Quer saber
-qual foi a primeira melhor escolha?
+00:05:35,430 --> 00:05:38,346
+If it's about money,
+let's just have a drink-off.
 
 161
-00:15:22,646 --> 00:15:24,104
-Junto com casar
+00:05:38,641 --> 00:05:40,609
+Whoever racks up
+the biggest tab by closing time
 
 162
-00:15:24,188 --> 00:15:26,938
-com essa maravilhosa aqui
-sentada ao meu lado.
+00:05:40,653 --> 00:05:42,089
+gets to keep Shaw's.
 
 163
-00:15:27,021 --> 00:15:28,896
-Como está?
+00:05:42,133 --> 00:05:43,350
+Okay, defectives.
 
 164
-00:15:28,979 --> 00:15:31,938
-Atender o telefone quando eu ligar.
+00:05:46,093 --> 00:05:48,617
+- My guys can handle that.
+- Oh, can they?
 
 165
-00:15:34,313 --> 00:15:36,771
-A propósito, não se preocupe com o escudo.
+00:05:48,661 --> 00:05:51,055
+'Cause the Nine-Nine's
+about to bring the real heat.
 
 166
-00:15:36,854 --> 00:15:38,104
-Sei que não está com ele.
+00:05:51,098 --> 00:05:54,796
+Get ready for the back draft, bitch.
 
 167
-00:15:39,563 --> 00:15:42,896
-Aqui vai um segredinho sujo de estado.
+00:05:55,255 --> 00:05:57,036
+Jake, are you upset?
+Where are you going?
 
 168
-00:15:42,979 --> 00:15:45,521
-Não pertence realmente ao governo.
+00:05:57,072 --> 00:05:58,543
+Are you embarrassed about your singing?
 
 169
-00:15:45,604 --> 00:15:48,146
-É uma espécie de área legal indefinida.
+00:05:58,579 --> 00:06:00,059
+- Doug Judy.
+- What?
 
 170
-00:15:53,646 --> 00:15:54,771
-Vou manter contato.
+00:06:00,095 --> 00:06:03,502
+Hey, Jake. Man, that song was moving AF.
 
 171
-00:16:04,938 --> 00:16:07,021
-Não há nada nele.
+00:06:03,545 --> 00:06:05,243
+We got to lay that down.
 
 172
-00:16:12,729 --> 00:16:14,313
-REINICIAR. RESTAURAR. RECONSTRUIR.
-CRG
+00:06:05,286 --> 00:06:07,854
+â™ª Doug Judy, he's
+smushing on the beach â™ª
 
 173
-00:16:27,563 --> 00:16:29,563
-CRG
-CONSELHO DE REPATRIAÇÃO GLOBAL
+00:06:07,897 --> 00:06:09,766
+Don't try and duet with me, you bastard.
 
 174
-00:16:43,396 --> 00:16:45,688
-Diz aqui que o CRG os acusou
+00:06:09,802 --> 00:06:11,399
+You tricked me. Now give me a hug.
 
 175
-00:16:45,771 --> 00:16:48,063
-de auxiliar e acobertar
-fugitivos internacionais,
+00:06:11,435 --> 00:06:12,923
+I'm so happy you're alive.
+I'll never forgive you.
 
 176
-00:16:48,146 --> 00:16:51,188
-então invadiram o lugar e o fecharam.
+00:06:12,959 --> 00:06:14,165
+You're my best friend.
 
 177
-00:16:53,771 --> 00:16:55,688
-Mathias.
+00:06:14,208 --> 00:06:15,470
+Whoo, I just went through
+a lot of emotions real fast,
 
 178
-00:16:55,771 --> 00:16:57,854
-Mama Donya.
+00:06:15,514 --> 00:06:17,211
+but I think I'm back to normal now.
 
 179
-00:16:57,938 --> 00:16:59,313
-Nico.
+00:06:17,255 --> 00:06:19,083
+- Should we get lunch?
+- I would love a cheesesteak.
 
 180
-00:17:01,354 --> 00:17:03,354
-Perdi a conta de quantos outros.
+00:06:19,126 --> 00:06:20,649
+I was thinking the exact same
+thing, probably 'cause...
 
 181
-00:17:05,396 --> 00:17:07,396
-Quantas vezes pagaremos com nossas vidas
+00:06:20,693 --> 00:06:22,434
+The coffin looks like a hoagie roll.
 
 182
-00:17:07,479 --> 00:17:09,271
-só para sermos cidadãos desse planeta!
+00:06:22,477 --> 00:06:24,218
+Judy, what the hell is going on?
 
 183
-00:17:14,854 --> 00:17:16,438
-O movimento está pronto.
+00:06:24,262 --> 00:06:26,075
+Uh, who are you, and where is Rosa?
 
 184
-00:17:17,854 --> 00:17:20,188
-Eles não vão parar.
+00:06:26,111 --> 00:06:27,851
+I'm his boss, and I want answers.
 
 185
-00:17:20,271 --> 00:17:21,979
-Não, a menos que os obriguemos.
+00:06:27,887 --> 00:06:29,618
+All right. You know
+who Stefano Lucas is?
 
 186
-00:17:25,188 --> 00:17:26,354
-Está na hora.
+00:06:29,654 --> 00:06:30,746
+The arms dealer?
 
 187
-00:17:57,854 --> 00:17:59,771
-Pensei que viria mais cedo.
+00:06:30,790 --> 00:06:32,936
+I got word he put a hit out
+on me, so I had to disappear.
 
 188
-00:18:03,313 --> 00:18:04,938
-Não se preocupe.
+00:06:32,972 --> 00:06:34,811
+Why does Stefano Lucas want you dead?
 
 189
-00:18:05,021 --> 00:18:07,479
-Decidi que não vou te matar.
+00:06:34,847 --> 00:06:36,187
+His favorite Ferrari got stolen,
 
 190
-00:18:09,063 --> 00:18:11,021
-Imagine o meu alívio.
+00:06:36,230 --> 00:06:37,753
+and for some reason he thinks I did it.
 
 191
-00:18:16,563 --> 00:18:20,771
-A menina foi radicalizada
-além de salvação.
+00:06:37,797 --> 00:06:39,233
+Probably because
+someone's been jacking cars
 
 192
-00:18:20,854 --> 00:18:22,938
-Avisei ao Sam, mas não me ouviu.
+00:06:39,277 --> 00:06:40,669
+all over Brooklyn using your MO.
 
 193
-00:18:23,604 --> 00:18:26,729
-Ele é tão teimoso
-quanto o Steve Rogers era.
+00:06:40,713 --> 00:06:42,149
+Oh, my God. Jake, are you saying
 
 194
-00:18:26,813 --> 00:18:28,563
-Mas você...
+00:06:42,193 --> 00:06:43,729
+- what I think you're saying?
+- Yes.
 
 195
-00:18:30,104 --> 00:18:32,979
-Eles literalmente
-programaram você para matar.
+00:06:43,765 --> 00:06:45,631
+You have a copycat.
 
 196
-00:18:33,063 --> 00:18:36,313
-James, faça o que deve ser feito.
+00:06:45,674 --> 00:06:47,678
+I didn't think I'd accomplished
+enough in my career for this.
 
 197
-00:18:36,396 --> 00:18:38,979
-A Karli tem pessoas em todos os lugares,
+00:06:47,714 --> 00:06:48,764
+I know, it's big.
 
 198
-00:18:39,063 --> 00:18:43,521
-e só existe um jeito de garantir
-que ela não continue a missão.
+00:06:48,808 --> 00:06:50,723
+It just feels so good
+to be seen, you know?
 
 199
-00:18:43,604 --> 00:18:45,813
-Agradeço o conselho.
+00:06:50,766 --> 00:06:52,725
+Wait. The only way to catch a copycat
 
 200
-00:18:47,438 --> 00:18:49,479
-Mas vamos fazer do nosso jeito.
+00:06:52,768 --> 00:06:55,058
+is to team up with
+the original criminal.
 
 201
-00:18:51,729 --> 00:18:53,146
-Sim.
+00:06:55,094 --> 00:06:56,973
+I'm back on the force! Give me a gun.
 
 202
-00:18:54,604 --> 00:18:56,771
-Eu temia que dissesse isso.
+00:06:57,009 --> 00:06:59,253
+No! There is no copycat. You did it.
 
 203
-00:19:55,479 --> 00:19:57,063
-Senhoras...
+00:06:59,297 --> 00:07:01,168
+Not me. I'm living that straight life.
 
 204
-00:19:59,104 --> 00:20:02,104
-Tomei a liberdade
-de cortar meu nome no seu caderno.
+00:07:01,212 --> 00:07:03,388
+Terry refuses to believe it.
+He thinks people can't change.
 
 205
-00:20:02,188 --> 00:20:04,979
-Não tenho mágoa
-pelo que achou que tinha que fazer.
+00:07:03,431 --> 00:07:05,099
+Tell that to Bruce Banner's
+pants and shirt.
 
 206
-00:20:07,813 --> 00:20:09,813
-Adeus, James.
+00:07:05,135 --> 00:07:06,217
+That's what I said.
 
 207
-00:20:17,396 --> 00:20:19,313
-Vamos levá-lo para a Balsa...
+00:07:06,260 --> 00:07:07,479
+Doug Judy, you're under arrest.
 
 208
-00:20:21,938 --> 00:20:23,896
-Onde ele passará o resto dos dias.
+00:07:07,522 --> 00:07:09,255
+What? Sarge?
 
 209
-00:20:27,938 --> 00:20:29,188
-Seria prudente
+00:07:10,308 --> 00:07:13,262
+You are really bringing down
+the vibe at this funeral.
 
 210
-00:20:29,271 --> 00:20:32,146
-não aparecer em Wakanda
-por enquanto, Lobo Branco.
+00:07:14,342 --> 00:07:15,577
+What the hell is that?
 
 211
-00:20:33,479 --> 00:20:34,688
-Justo.
+00:07:15,613 --> 00:07:17,018
+Jake got me this disguise
 
 212
-00:20:40,646 --> 00:20:41,854
-Ei!
+00:07:17,054 --> 00:07:19,497
+so some criminal doesn't see me
+in here and tell Stefano.
 
 213
-00:20:47,938 --> 00:20:50,813
-Tenho mais um favor para te pedir.
+00:07:19,533 --> 00:07:21,435
+Okay, but why is Jake also wearing them?
 
 214
-00:20:52,313 --> 00:20:53,313
-Vamos lá.
+00:07:21,471 --> 00:07:23,894
+Uh, because it looks super cool, Sarge.
 
 215
-00:21:00,521 --> 00:21:02,771
-O que está fazendo? Aonde você vai?
+00:07:23,937 --> 00:07:25,939
+We look like the hot twins
+from "The Matrix."
 
 216
-00:21:02,854 --> 00:21:05,063
-Vou ver o seu avô.
+00:07:28,164 --> 00:07:29,502
+We are getting aggravated.
 
 217
-00:21:08,021 --> 00:21:09,563
-Está bem, está lá atrás.
+00:07:29,538 --> 00:07:31,249
+- You look like Milli Vanilli.
+- Ooh! I call Vanilli.
 
 218
-00:21:11,021 --> 00:21:12,479
-Obrigado.
+00:07:31,293 --> 00:07:33,077
+Ah, I want to be Nilli, but you got it.
 
 219
-00:21:12,563 --> 00:21:14,354
-- Daqui a pouco eu vou lá.
-- Sim.
+00:07:33,120 --> 00:07:34,629
+- He's the best one.
+- You know it's true.
 
 220
-00:21:15,729 --> 00:21:16,938
-Continue, cara.
+00:07:34,684 --> 00:07:36,380
+So did you check out Judy's alibi?
 
 221
-00:21:43,646 --> 00:21:45,229
-Isso é o que acho que é?
+00:07:36,416 --> 00:07:38,822
+Yes, and surprisingly, it checks out.
 
 222
-00:21:47,854 --> 00:21:49,438
-Deixe coberto.
+00:07:38,865 --> 00:07:41,151
+Last Saturday night, Doug was deejaying
 
 223
-00:21:50,104 --> 00:21:53,979
-As estrelas e listras
-não significam nada bom para mim.
+00:07:41,187 --> 00:07:42,738
+Joshy Greenbaum's bar mitzvah.
 
 224
-00:21:57,021 --> 00:21:58,938
-Preciso entender.
+00:07:42,774 --> 00:07:44,203
+That was a wild party.
 
 225
-00:22:00,938 --> 00:22:02,646
-Você entende.
+00:07:44,239 --> 00:07:45,984
+Auntie Karen is a freak.
 
 226
-00:22:04,854 --> 00:22:07,229
-Todo homem negro entende.
+00:07:46,020 --> 00:07:47,441
+Judy, you deejay bar mitzvahs?
 
 227
-00:22:07,313 --> 00:22:09,104
-Quer queira negar ou não...
+00:07:47,477 --> 00:07:49,093
+Best gig I ever had.
+No one likes hip-hop more
 
 228
-00:22:09,188 --> 00:22:11,229
-Não faça o velho amargurado comigo.
+00:07:49,136 --> 00:07:50,563
+than a 13-year-old Jewish boy.
 
 229
-00:22:11,313 --> 00:22:13,729
-Se não está amargurado, está cego.
+00:07:50,599 --> 00:07:52,923
+- Mm. So true.
+- I'm not buying it.
 
 230
-00:22:17,354 --> 00:22:18,896
-Eu não entendo, está bem?
+00:07:52,966 --> 00:07:54,808
+Probably stealing cash
+off the gift table.
 
 231
-00:22:21,813 --> 00:22:23,521
-O que deu errado?
+00:07:54,844 --> 00:07:56,728
+Sarge, come on. He has an alibi.
 
 232
-00:22:26,313 --> 00:22:29,396
-Eu costumava ser como você,
+00:07:56,764 --> 00:07:59,219
+Let's just team up and
+try and catch the copycat.
 
 233
-00:22:29,479 --> 00:22:32,271
-até que abri meus olhos,
+00:07:59,255 --> 00:08:00,508
+A thousand push-ups.
 
 234
-00:22:32,354 --> 00:22:36,063
-até que vi homens dos Red Tails,
+00:08:00,544 --> 00:08:01,886
+It's something Rosa and I used to say.
 
 235
-00:22:36,146 --> 00:22:40,854
-o esquadrão 332 lutando pelo país,
+00:08:01,922 --> 00:08:03,606
+It just means trust me.
+If Judy's a criminal,
 
 236
-00:22:40,938 --> 00:22:44,979
-para depois chegar em casa e encontrar
-cruzes queimadas em seu quintal.
+00:08:03,642 --> 00:08:05,765
+I'll do a thousand push-ups,
+and since you're so confident,
 
 237
-00:22:45,063 --> 00:22:47,354
-Sou do sul. Eu entendo isso.
+00:08:05,801 --> 00:08:07,154
+if you're wrong, you can do 'em.
 
 238
-00:22:47,438 --> 00:22:50,604
-Mas era um Super Soldado como o Steve.
-Poderia ter sido o próximo...
+00:08:07,198 --> 00:08:08,939
+And a thousand push-ups?
+That's a lot to you?
 
 239
-00:22:50,688 --> 00:22:52,604
-O próximo? O quê?
+00:08:09,374 --> 00:08:10,510
+You go to hell, Terry.
 
 240
-00:22:55,479 --> 00:22:59,229
-Loiro de olhos azuis, estrelas e listras?
+00:08:10,546 --> 00:08:12,177
+Make it 100,000 push-ups, and I'm in.
 
 241
-00:23:00,229 --> 00:23:02,854
-O mundo inteiro ansiava
-pela grande esperança branca
+00:08:12,213 --> 00:08:13,813
+Obviously I can't do that much exercise,
 
 242
-00:23:02,938 --> 00:23:04,813
-desde que ele recebeu aquele soro.
+00:08:13,857 --> 00:08:15,902
+but it doesn't matter, because
+Doug Judy is telling the truth,
 
 243
-00:23:04,896 --> 00:23:07,604
-O Steve não te colocou na cadeia.
+00:08:15,946 --> 00:08:17,077
+- right, Judy?
+- I got you, baby.
 
 244
-00:23:23,021 --> 00:23:25,354
-Ela morreu enquanto estava preso.
+00:08:17,121 --> 00:08:18,862
+So fine. 100,000 push-ups.
 
 245
-00:23:25,438 --> 00:23:30,479
-Nunca deixaram uma única de suas cartas
-chegar até mim.
+00:08:18,905 --> 00:08:20,092
+You happy, Sarge?
 
 246
-00:23:31,104 --> 00:23:33,271
-Eles as trancaram nessa caixa.
+00:08:20,342 --> 00:08:22,862
+- Great. Now, Doug...
+- You never call me Doug.
 
 247
-00:23:35,313 --> 00:23:36,604
-Disseram que estava morto.
+00:08:22,898 --> 00:08:23,986
+Yeah, well, you called me Jake earlier.
 
 248
-00:23:38,271 --> 00:23:43,521
-Sim, e depois de um tempo,
-ela morreu, e...
+00:08:24,022 --> 00:08:25,226
+I thought we were switching
+to first names.
 
 249
-00:23:51,729 --> 00:23:52,729
-Desculpe.
+00:08:25,262 --> 00:08:26,539
+I was thinking the same exact thing!
 
 250
-00:23:54,146 --> 00:23:56,104
-Quer saber o que deu errado?
+00:08:26,575 --> 00:08:27,914
+I was like, "Why not call him Jake?"
 
 251
-00:23:57,604 --> 00:24:03,188
-Um punhado de nós tomou
-diferentes versões desse soro,
+00:08:27,958 --> 00:08:29,133
+- We're bonding, man.
+- 'Cause he's so official.
 
 252
-00:24:03,271 --> 00:24:06,188
-mas eles não nos disseram o que era.
+00:08:31,178 --> 00:08:33,093
+But it's chill now.
 
 253
-00:24:06,938 --> 00:24:10,063
-Disseram que era para tétano.
+00:08:33,137 --> 00:08:35,226
+- So, Doug...
+- Yes, Jake?
 
 254
-00:24:10,146 --> 00:24:12,688
-Eles nos mandaram em missões,
+00:08:35,270 --> 00:08:37,533
+Now that we know the copycat
+is using your playbook,
 
 255
-00:24:12,771 --> 00:24:16,021
-mesmo os outros não estando estáveis.
+00:08:37,576 --> 00:08:39,883
+if you were still in the game...
+which you're not,
 
 256
-00:24:16,938 --> 00:24:20,063
-Alguns começaram a morrer.
+00:08:39,926 --> 00:08:42,320
+we all agree...
+what would your next move be?
 
 257
-00:24:20,146 --> 00:24:24,354
-Em seguida, alguns garotos
-foram capturados em uma missão.
+00:08:42,364 --> 00:08:44,235
+It's fight night at Barclays.
 
 258
-00:24:25,729 --> 00:24:31,896
-Ouvi os chefões falando sobre explodir
-o acampamento prisioneiro
+00:08:44,279 --> 00:08:46,150
+No sport attracts more
+ultra-wealthy people
 
 259
-00:24:31,979 --> 00:24:33,104
-para esconder provas.
+00:08:46,193 --> 00:08:47,847
+with super-nice cars than boxing.
 
 260
-00:24:33,854 --> 00:24:37,188
-Mas eram meus homens. Meus irmãos.
+00:08:47,891 --> 00:08:50,727
+Really? What about the sport
+of hunting man?
 
 261
-00:24:37,271 --> 00:24:39,146
-Não provas.
+00:08:50,763 --> 00:08:52,156
+- You got me.
+- That's not a thing.
 
 262
-00:24:40,354 --> 00:24:45,271
-Então eu saí da instalação uma noite
+00:08:52,199 --> 00:08:53,657
+Right. So should we just
+start at Barclays then?
 
 263
-00:24:45,354 --> 00:24:47,438
-e trouxe-os de volta.
+00:08:53,693 --> 00:08:56,508
+Great. But first, we got to make
+a quick little pit stop on the way.
 
 264
-00:24:48,063 --> 00:24:51,521
-Não que tenha feito nenhuma diferença.
+00:08:56,552 --> 00:08:57,814
+What? Where?
 
 265
-00:24:52,771 --> 00:24:55,313
-Não demorou muito para que só restasse eu.
+00:09:05,341 --> 00:09:07,166
+Okay, here are the rules to the contest.
 
 266
-00:24:56,729 --> 00:24:59,354
-E o que ganhei por salvar suas vidas?
+00:09:07,202 --> 00:09:08,346
+If you order a drink,
 
 267
-00:25:09,729 --> 00:25:13,896
-Pelos próximos 30 anos,
+00:09:08,390 --> 00:09:10,580
+it must be fully consumed
+before you order another.
 
 268
-00:25:13,979 --> 00:25:17,938
-fizeram experimentos em mim,
+00:09:10,616 --> 00:09:13,003
+Each team's tab will be
+tracked on that board.
 
 269
-00:25:18,521 --> 00:25:20,938
-tentando descobrir
-por que o soro funcionou.
+00:09:13,046 --> 00:09:15,222
+We don't want anyone
+getting alcohol poisoning,
 
 270
-00:25:28,021 --> 00:25:29,271
-Tinha uma enfermeira.
+00:09:15,266 --> 00:09:17,184
+so if you throw up, you're disqualified.
 
 271
-00:25:30,021 --> 00:25:31,604
-Ela teve pena de mim.
+00:09:17,220 --> 00:09:19,401
+I never throw up. I just tell
+my stomach to deal with it.
 
 272
-00:25:31,688 --> 00:25:34,813
-Escreveu uns relatórios falsos,
-algo assim.
+00:09:19,444 --> 00:09:21,098
+My body is terrified of me.
 
 273
-00:25:34,896 --> 00:25:37,729
-Me declarou morto.
+00:09:21,141 --> 00:09:22,447
+Guys, there's no way we can win.
 
 274
-00:25:43,396 --> 00:25:45,063
-Foi quem me deu isso.
+00:09:22,491 --> 00:09:24,319
+There's nine of them and six of us.
 
 275
-00:25:55,396 --> 00:25:56,813
-Meu Deus!
+00:09:24,362 --> 00:09:26,364
+Five of you. I'm going home.
 
 276
-00:25:59,063 --> 00:26:02,354
-Sam, eu a amava tanto.
+00:09:26,408 --> 00:09:28,235
+Although perhaps I'll stop
+at Bel Vino on the way,
 
 277
-00:26:05,771 --> 00:26:07,188
-Sr. Bradley...
+00:09:28,279 --> 00:09:29,716
+have a glass of Sancerre.
 
 278
-00:26:08,979 --> 00:26:12,063
-Temos que fazer alguma coisa.
-Temos que contar a alguém.
+00:09:29,752 --> 00:09:31,108
+Might even try the quince paste
 
 279
-00:26:12,146 --> 00:26:16,021
-Não. Me deixe morto.
-Meu nome está enterrado.
+00:09:31,151 --> 00:09:34,004
+if I'm feeling... naughty.
 
 280
-00:26:16,104 --> 00:26:19,104
-Mas o mundo está diferente agora.
-Eu conheço pessoas.
+00:09:34,040 --> 00:09:35,373
+You're really gonna let
+these firefighters
 
 281
-00:26:19,188 --> 00:26:21,271
-Cara, é por isso que está aqui?
+00:09:35,417 --> 00:09:37,027
+take Shaw's from us?
 
 282
-00:26:22,729 --> 00:26:25,979
-Acha que as coisas são diferentes?
-Os tempos são diferentes?
+00:09:37,070 --> 00:09:39,203
+Think of all the celebrations
+we've had here,
 
 283
-00:26:26,063 --> 00:26:30,188
-Acha que não me matariam em um dia
-se me revelasse?
+00:09:39,246 --> 00:09:41,581
+all the times Terry has yelled
+"Nine-Nine!"
 
 284
-00:26:31,854 --> 00:26:37,146
-Acredita que a prisão foi minha culpa
-porque tem o escudo do homem branco.
+00:09:41,617 --> 00:09:42,618
+I hate it when he says that.
 
 285
-00:26:40,063 --> 00:26:43,021
-Estavam preocupados
-que minha história vazasse.
+00:09:42,654 --> 00:09:44,251
+He should say, "Cheers
 
 286
-00:26:45,229 --> 00:26:48,938
-Então, eles me apagaram.
+00:09:44,295 --> 00:09:45,427
+to the Ninety-Ninth Precinct!"
 
 287
-00:26:50,146 --> 00:26:51,146
-A minha história.
+00:09:46,733 --> 00:09:48,212
+We shouldn't be here.
 
 288
-00:26:52,604 --> 00:26:55,104
-Mas eles fazem isso há 500 anos.
+00:09:48,255 --> 00:09:49,648
+If you're worried that
+someone will recognize me
 
 289
-00:26:59,438 --> 00:27:02,271
-Prometa lealdade a isso, meu irmão.
+00:09:49,692 --> 00:09:51,544
+and find out I'm still alive,
+they won't.
 
 290
-00:27:03,938 --> 00:27:09,938
-Nunca vão deixar um homem negro
-ser o Capitão América.
+00:09:51,580 --> 00:09:53,043
+There's not too many hardened criminals
 
 291
-00:27:11,854 --> 00:27:12,979
-E mesmo que deixem,
+00:09:53,086 --> 00:09:55,045
+at Justin Friedman's bar mitzvah.
 
 292
-00:27:13,688 --> 00:27:19,354
-nenhum negro que se respeite
-aceitaria ser.
+00:09:55,088 --> 00:09:58,429
+Although there is a
+murderer on the loose,
 
 293
-00:27:47,604 --> 00:27:51,521
-Sarah, estou indo para casa.
+00:09:58,465 --> 00:10:00,589
+'cause Kevin Goldman is
+killing those dance moves!
 
 294
-00:28:14,521 --> 00:28:15,813
-Bom trabalho, pessoal.
+00:10:00,625 --> 00:10:01,756
+Get it, Kevin!
 
 295
-00:28:16,854 --> 00:28:19,938
-Em cerca de 10 anos, estará consertada.
+00:10:01,792 --> 00:10:03,621
+That's the floss. He's flossing.
 
 296
-00:28:22,229 --> 00:28:25,229
-Seria divertido sair com o barco
-uma vez, antes de vendermos?
+00:10:03,657 --> 00:10:05,533
+It's just that we should
+be at Barclays already.
 
 297
-00:28:26,229 --> 00:28:27,979
-Tem um lugar ótimo em Grand Isle,
+00:10:05,569 --> 00:10:06,745
+The fights are starting soon.
 
 298
-00:28:28,063 --> 00:28:30,646
-que seu avô me levava,
-pegava um monte de peixes.
+00:10:06,781 --> 00:10:08,450
+Rich guys never show up on time.
 
 299
-00:28:31,438 --> 00:28:32,938
-Ela disse que não podemos vender.
+00:10:08,493 --> 00:10:10,626
+Besides, I promised Justin I'd be here.
 
 300
-00:28:34,271 --> 00:28:35,396
-O quê?
+00:10:10,669 --> 00:10:11,975
+What up, J-Smooth!
 
 301
-00:28:35,479 --> 00:28:36,688
-Está muito estragado.
+00:10:14,875 --> 00:10:17,516
+Gone straight, my ass.
+I got you, Doug Judy.
 
 302
-00:28:37,313 --> 00:28:40,646
-O Sr. Dinh disse que não compraria
-porque é caro para consertar.
+00:10:17,552 --> 00:10:18,598
+- Huh?
+- What are you talking about?
 
 303
-00:28:41,646 --> 00:28:44,271
-E depois ele disse
-outra coisa em vietnamita.
+00:10:18,634 --> 00:10:20,611
+Something felt wrong,
+stopping for this bar mitzvah,
 
 304
-00:28:44,854 --> 00:28:45,854
-Sim.
+00:10:20,647 --> 00:10:22,316
+so I sent some plainclothes officers
 
 305
-00:28:48,854 --> 00:28:50,313
-Por que não disse nada?
+00:10:22,352 --> 00:10:23,944
+to watch the lots at Barclays.
 
 306
-00:28:50,896 --> 00:28:52,604
-Não queria te dizer ontem
+00:10:23,980 --> 00:10:25,792
+- They just caught the copycat.
+- I don't understand.
 
 307
-00:28:52,688 --> 00:28:55,313
-quando estava
-como um cachorro triste na chuva.
+00:10:25,828 --> 00:10:27,382
+If anything,
+that proves Judy's innocent.
 
 308
-00:28:56,396 --> 00:28:57,521
-Foi um dia difícil.
+00:10:27,425 --> 00:10:28,828
+He's been standing here with us
+the whole time.
 
 309
-00:28:58,771 --> 00:29:00,229
-Fala do Isaiah Bradley?
+00:10:28,864 --> 00:10:31,386
+Which was his plan! Establish an alibi,
 
 310
-00:29:01,146 --> 00:29:02,438
-E o que fizeram com ele.
+00:10:31,429 --> 00:10:33,242
+so his partner can go off stealing cars.
 
 311
-00:29:05,021 --> 00:29:06,021
-Quer falar sobre isso?
+00:10:33,278 --> 00:10:34,410
+I don't have a partner.
 
 312
-00:29:06,688 --> 00:29:07,688
-Não.
+00:10:34,446 --> 00:10:36,608
+Whoever this is, I promise you,
+I do not know him.
 
 313
-00:29:08,479 --> 00:29:10,646
-Estou tentando descobrir o que significa.
+00:10:36,885 --> 00:10:39,045
+Actually, Doug, I think you do.
 
 314
-00:29:12,146 --> 00:29:14,146
-Bom, estou aqui.
+00:10:39,089 --> 00:10:40,438
+Oh, my God.
 
 315
-00:29:17,271 --> 00:29:21,646
-Mas, no que diz respeito ao barco,
-é que o Sr. Dinh recuou.
+00:10:40,482 --> 00:10:41,961
+Trudy Judy!
 
 316
-00:29:22,938 --> 00:29:24,146
-Não sei o que fazer.
+00:10:42,824 --> 00:10:44,478
+You still want to pretend you
+had nothing to do with this?
 
 317
-00:29:24,229 --> 00:29:27,438
-Só as peças vão comer
-a maior parte do que recebermos.
+00:10:44,522 --> 00:10:46,437
+I didn't, and she didn't either.
 
 318
-00:29:27,521 --> 00:29:30,854
-Me escute. Não se preocupe.
-Vou consertar o barco.
+00:10:46,480 --> 00:10:47,622
+Trudy Judy's not a car thief.
 
 319
-00:29:30,938 --> 00:29:32,896
-Não deveria estar salvando o mundo?
+00:10:47,658 --> 00:10:49,007
+Trudy Judy's an angel.
 
 320
-00:29:32,979 --> 00:29:34,479
-Por que está aqui me incomodando?
+00:10:49,043 --> 00:10:50,558
+She's putting herself
+through nursing school.
 
 321
-00:29:34,563 --> 00:29:37,563
-Porque o bem-estar da minha família
-é parte do mundo.
+00:10:50,594 --> 00:10:52,253
+And nurses are the best of our society.
 
 322
-00:29:38,854 --> 00:29:40,854
-Então está esperando uma pista?
+00:10:52,289 --> 00:10:53,400
+Name one bad nurse.
 
 323
-00:29:40,938 --> 00:29:46,146
-E o governo entrou
-e assumiu o controle e nos pôs de lado.
+00:10:53,444 --> 00:10:55,658
+Nurse Ratched. Kathy Bates in "Misery."
 
 324
-00:29:50,604 --> 00:29:51,604
-Ei, rapazes.
+00:10:55,694 --> 00:10:57,068
+Nurse Jackie had a pill problem.
 
 325
-00:29:53,604 --> 00:29:55,813
-Certifiquem-se
-que Bennett e Elling recebam.
+00:10:57,104 --> 00:10:58,753
+Okay, damn, you got a lot
+of real good examples
 
 326
-00:29:55,896 --> 00:29:56,938
-- Está bem?
-- Está bem.
+00:10:58,797 --> 00:11:00,581
+off the top of your head.
+You believe me, right, Jake?
 
 327
-00:29:57,021 --> 00:29:58,938
-- Tudo bem. Tchau.
-- Tchau.
+00:11:00,625 --> 00:11:02,235
+I mean, the fact pattern's not great,
 
 328
-00:29:59,021 --> 00:30:00,646
-Bom dia na escola, pessoal.
+00:11:02,279 --> 00:11:03,989
+but Trudy did seem very nice
+when I met her.
 
 329
-00:30:00,729 --> 00:30:01,729
-Está bem.
+00:11:04,025 --> 00:11:05,454
+You trying to get your
+freak on with my sister?
 
 330
-00:30:03,688 --> 00:30:06,979
-O pai do Bennett e do Elling
-não acorda antes do meio-dia.
+00:11:05,490 --> 00:11:06,326
+What? No.
 
 331
-00:30:07,063 --> 00:30:09,979
-Continuam com fome,
-mas orgulhosos demais para pedir ajuda.
+00:11:06,370 --> 00:11:07,762
+I see you looking at Trudy Judy's booty.
 
 332
-00:30:10,063 --> 00:30:12,729
-E você é como a mamãe,
-alimentando todas as crianças.
+00:11:07,806 --> 00:11:09,242
+I am not looking at Trudy Judy's booty.
 
 333
-00:30:14,521 --> 00:30:16,896
-Quantos ainda devem
-a mãe e o pai alguma coisa?
+00:11:09,286 --> 00:11:10,417
+Oh, you don't think she's a cutie?
 
 334
-00:30:17,479 --> 00:30:18,979
-Todos eles.
+00:11:10,461 --> 00:11:11,974
+- Don't be snooty.
+- She's a beauty,
 
 335
-00:30:19,063 --> 00:30:20,354
-Todos que sobraram.
+00:11:12,010 --> 00:11:13,464
+- but I'm on duty.
+- And you're married.
 
 336
-00:30:23,313 --> 00:30:25,938
-Pode ser hora
-de cobrar alguns desses favores.
+00:11:13,507 --> 00:11:14,726
+Well, yeah, but that doesn't rhyme.
 
 337
-00:30:29,229 --> 00:30:30,771
-Vou consertar esse maldito barco.
+00:11:14,769 --> 00:11:16,116
+Sorry, I just get so overprotective.
 
 338
-00:30:33,521 --> 00:30:35,396
-- Ei, é o Sam Wilson.
-- Oi, Sam.
+00:11:16,152 --> 00:11:17,387
+She's such a good kid.
 
 339
-00:30:35,479 --> 00:30:37,729
-É. O mais novo do Paul aqui da rua.
+00:11:17,423 --> 00:11:19,122
+I guarantee you,
+she didn't steal those cars.
 
 340
-00:30:37,813 --> 00:30:38,896
-Como está sua irmã?
+00:11:19,165 --> 00:11:21,298
+We caught her sitting in a
+Bentley with a power amplifier
 
 341
-00:30:38,979 --> 00:30:41,229
-Olá, Srta. Paddy. Lembra dos meus pais?
+00:11:21,341 --> 00:11:23,604
+and a homemade override
+plugged into the CAN bus.
 
 342
-00:30:41,313 --> 00:30:42,354
-Sim, eu me lembro.
+00:11:23,648 --> 00:11:24,821
+Yeah, she guilty.
 
 343
-00:30:42,438 --> 00:30:44,104
-Ei, Sr. Falcão.
+00:11:25,476 --> 00:11:27,790
+I can't believe you made
+us think you were dead.
 
 344
-00:30:44,188 --> 00:30:45,604
-Como você está, garoto?
+00:11:27,826 --> 00:11:29,177
+I can't believe you're
+out here stealing cars.
 
 345
-00:30:45,688 --> 00:30:47,688
-Estou de volta, por isso estou ligando.
+00:11:29,213 --> 00:11:30,611
+- That's for lowlifes.
+- You steal cars.
 
 346
-00:30:47,771 --> 00:30:48,854
-O que precisa?
+00:11:30,655 --> 00:11:32,700
+And I'm a lowlife. A gorgeous, charming,
 
 347
-00:30:48,938 --> 00:30:49,938
-- Sr. Thurow.
-- Sim.
+00:11:32,744 --> 00:11:34,284
+super smart lowlife beloved by all.
 
 348
-00:30:50,021 --> 00:30:51,354
-Posso pedir um favor?
+00:11:34,320 --> 00:11:35,452
+I'm sorry, Dougie.
 
 349
-00:30:51,438 --> 00:30:53,229
-Qualquer coisa para a família Wilson.
+00:11:35,488 --> 00:11:36,719
+I was falling behind
+on my student loans.
 
 350
-00:30:53,313 --> 00:30:55,604
-- Agradeço.
-- Estaremos aí quando precisar.
+00:11:36,755 --> 00:11:38,009
+I had to do something.
 
 351
-00:30:59,979 --> 00:31:02,063
-Não sei como vamos conseguir.
+00:11:38,045 --> 00:11:39,646
+Guys, if you weren't working together,
 
 352
-00:31:02,146 --> 00:31:03,646
-Precisamos de mais pessoas.
+00:11:39,682 --> 00:11:41,075
+how did she know
+all your signature moves?
 
 353
-00:31:03,729 --> 00:31:05,688
-Tommy, Carlos, isso é incrível.
+00:11:41,111 --> 00:11:42,706
+I found some of Doug's old notebooks.
 
 354
-00:31:08,188 --> 00:31:09,938
-- Muito obrigado.
-- Olha...
+00:11:42,742 --> 00:11:43,891
+Those are notes for my memoir.
 
 355
-00:31:10,021 --> 00:31:11,104
-- Obrigado a todos.
-- Ei,
+00:11:43,927 --> 00:11:45,359
+Memoir? Do you have title ideas yet?
 
 356
-00:31:11,188 --> 00:31:13,188
-disseram que os Wilson precisam de ajuda?
+00:11:45,395 --> 00:11:48,153
+I was just gonna call it
+"The Pontiac Bandit..."
 
 357
-00:31:13,271 --> 00:31:14,271
-Sim, senhor.
+00:11:50,100 --> 00:11:51,450
+- Oh, is that it?
+- Yeah.
 
 358
-00:31:14,354 --> 00:31:16,063
-Ainda temos um pouco de utilidade.
+00:11:51,486 --> 00:11:53,022
+- Okay.
+- I hated stealing cars.
 
 359
-00:31:16,146 --> 00:31:17,438
-Como tiramos do caminhão?
+00:11:53,058 --> 00:11:55,567
+I was gonna stop as soon as nursing
+school was paid off, I swear.
 
 360
-00:31:25,521 --> 00:31:26,521
-De nada.
+00:11:55,603 --> 00:11:56,836
+It was a mistake.
 
 361
-00:31:31,479 --> 00:31:33,021
-Só deixando isso aqui.
+00:11:56,872 --> 00:11:58,462
+That's good enough for me.
+Come on, Trudy, let's go home.
 
 362
-00:31:34,938 --> 00:31:36,604
-É só assinar e eu vou embora.
+00:11:58,498 --> 00:12:00,614
+That's not really how arresting works.
 
 363
-00:31:39,146 --> 00:31:40,896
-Cobrei um favor aos wakandanos.
+00:12:00,650 --> 00:12:02,377
+- She's going to jail.
+- Wait, wait, wait.
 
 364
-00:31:45,313 --> 00:31:46,313
-Sam!
+00:12:02,413 --> 00:12:03,518
+What if we get you a bigger fish?
 
 365
-00:31:53,979 --> 00:31:56,063
-- Oi.
-- Oi.
+00:12:03,554 --> 00:12:05,104
+- What if we can get you Stefano?
+- Who?
 
 366
-00:31:58,063 --> 00:32:00,104
-Espere. Tem que ser para cima.
+00:12:05,140 --> 00:12:08,475
+That cherry red 1961 Ferrari
+250GT California you took
 
 367
-00:32:12,271 --> 00:32:13,938
-Por que não usou o braço de metal?
+00:12:08,519 --> 00:12:10,390
+belongs to a guy named Stefano Lucas.
 
 368
-00:32:14,854 --> 00:32:15,854
-Bom...
+00:12:10,434 --> 00:12:12,305
+He thinks I did it, and
+now he wants to kill me.
 
 369
-00:32:16,563 --> 00:32:18,396
-Nem sempre penso nele imediatamente.
+00:12:12,349 --> 00:12:13,698
+Oh, my God, I'm so sorry. I had no idea.
 
 370
-00:32:18,479 --> 00:32:19,646
-Sou destro.
+00:12:13,741 --> 00:12:15,265
+It's all good. You have the car,
 
 371
-00:32:21,396 --> 00:32:22,604
-Então, esse é o barco?
+00:12:15,308 --> 00:12:17,483
+so I call him, tell him I'm not dead,
 
 372
-00:32:23,563 --> 00:32:24,563
-É esse.
+00:12:17,519 --> 00:12:19,129
+say I want to give him his car back,
 
 373
-00:32:26,563 --> 00:32:27,563
-É legal.
+00:12:19,165 --> 00:12:21,227
+arrange a drop, and these guys
+take him down or die trying.
 
 374
-00:32:29,938 --> 00:32:30,938
-Quer ajuda?
+00:12:21,486 --> 00:12:22,922
+That is interesting.
 
 375
-00:32:33,646 --> 00:32:34,646
-Quero.
+00:12:22,958 --> 00:12:24,491
+Stefano almost never
+comes out in public.
 
 376
-00:32:39,979 --> 00:32:40,979
-Sou o Bucky.
+00:12:24,535 --> 00:12:26,406
+It would be a huge collar
+for the Nine-Nine.
 
 377
-00:32:43,063 --> 00:32:44,063
-Sarah.
+00:12:26,450 --> 00:12:28,752
+What do you say, Sarge?
+100,000 push-ups?
 
 378
-00:32:44,813 --> 00:32:45,813
-Sarah...
+00:12:29,871 --> 00:12:32,369
+Fine. If you deliver Stefano,
+I'll talk to the DA
 
 379
-00:33:21,396 --> 00:33:22,396
-Droga!
+00:12:32,412 --> 00:12:33,979
+about a reduced sentence
+for your sister.
 
 380
-00:33:35,979 --> 00:33:37,104
-Obrigado.
+00:12:34,022 --> 00:12:36,677
+Thank you so much.
+There's just one problem.
 
 381
-00:33:42,521 --> 00:33:44,229
-Acha que a Karli vai desistir?
+00:12:36,721 --> 00:12:38,204
+I don't have the car.
 
 382
-00:33:45,021 --> 00:33:46,646
-Acho que ela vai vir com tudo.
+00:12:38,240 --> 00:12:39,724
+I already handed it off to a fence.
 
 383
-00:33:46,729 --> 00:33:48,729
-Alguma ideia de como impedi-la?
+00:12:39,767 --> 00:12:42,205
+Oh, Judy, Judy, you screwed me.
 
 384
-00:33:48,813 --> 00:33:50,979
-Tenho o Joaquin trabalhando numa coisa.
+00:12:42,241 --> 00:12:43,177
+_
 
 385
-00:33:51,063 --> 00:33:53,563
-Bom, o Zemo disse que só há um jeito.
+00:12:43,212 --> 00:12:45,211
+Four hours left. We're down $58.
 
 386
-00:34:07,729 --> 00:34:08,771
-Bom...
+00:12:45,247 --> 00:12:47,118
+- Amy, where you at?
+- Four drinks.
 
 387
-00:34:10,938 --> 00:34:12,563
-Tenho de pegar o meu voo amanhã.
+00:12:47,204 --> 00:12:48,863
+- What's four-drink Amy again?
+- Why don't you come over here
 
 388
-00:34:15,188 --> 00:34:16,771
-Conseguir um quarto de hotel.
+00:12:48,907 --> 00:12:51,257
+- and find out?
+- Right, Horny Amy.
 
 389
-00:34:17,521 --> 00:34:18,521
-Descansar, sabe?
+00:12:51,301 --> 00:12:53,186
+It feels like you should retire
+that one for the MeToo era.
 
 390
-00:34:18,604 --> 00:34:20,271
-Vai armar assim para mim?
+00:12:53,222 --> 00:12:55,218
+Why don't you come
+over here and make me?
 
 391
-00:34:21,604 --> 00:34:23,604
-Não fica estranho com sua família?
+00:12:55,261 --> 00:12:56,418
+All right, there's only
+one thing left to do.
 
 392
-00:34:23,688 --> 00:34:25,229
-Fique aqui.
+00:12:56,454 --> 00:12:57,568
+Drink faster.
 
 393
-00:34:25,313 --> 00:34:26,313
-As pessoas daqui
+00:12:57,611 --> 00:12:58,656
+Set a bunch of fires
+throughout the city.
 
 394
-00:34:26,396 --> 00:34:28,604
-são as mais acolhedoras do mundo.
+00:12:58,699 --> 00:13:00,319
+- Mine's better.
+- No!
 
 395
-00:34:28,688 --> 00:34:31,188
-Não se importam
-se você usa camiseta apertada
+00:13:00,788 --> 00:13:02,091
+We can do this.
 
 396
-00:34:31,271 --> 00:34:33,979
-ou se tem seis dedos
-ou se sua mãe é sua tia.
+00:13:02,529 --> 00:13:04,183
+Things seem bleak now,
 
 397
-00:34:34,063 --> 00:34:35,438
-- Vive em...
-- Está bem, entendi.
+00:13:04,227 --> 00:13:06,925
+but the night is always darkest
+before the dawn.
 
 398
-00:34:35,521 --> 00:34:37,729
-Quero dizer, as pessoas são legais.
+00:13:07,534 --> 00:13:09,137
+This is Shaw's.
 
 399
-00:34:39,146 --> 00:34:40,646
-Mas não flerte com minha irmã.
+00:13:09,580 --> 00:13:11,398
+We've had weddings here,
 
 400
-00:34:41,354 --> 00:34:42,521
-- Não.
-- Porque se flertar,
+00:13:11,799 --> 00:13:13,062
+and funerals.
 
 401
-00:34:42,604 --> 00:34:44,521
-vou mandar o Carlos te dar para os peixes.
+00:13:13,410 --> 00:13:15,770
+Shaw's is part of our family,
 
 402
-00:34:44,604 --> 00:34:45,604
-Está bem.
+00:13:16,369 --> 00:13:18,004
+because that is what we are.
 
 403
-00:34:55,604 --> 00:34:56,688
-E depois o quê?
+00:13:19,167 --> 00:13:20,281
+A family.
 
 404
-00:34:58,063 --> 00:34:59,646
-Depois que vi o que aconteceu
+00:13:20,547 --> 00:13:22,984
+And we're not just Amy and Rosa
 
 405
-00:35:00,563 --> 00:35:01,563
-ao Lemar,
+00:13:23,028 --> 00:13:24,551
+and Hitchcock and...
 
 406
-00:35:03,021 --> 00:35:04,021
-fui atrás dele.
+00:13:33,505 --> 00:13:35,214
+So the fence, Dallas, he works in there.
 
 407
-00:35:06,063 --> 00:35:08,896
-E esse cara...
+00:13:35,258 --> 00:13:36,607
+I don't like him. My rule?
 
 408
-00:35:10,354 --> 00:35:12,021
-Foi ele que matou o nosso menino?
+00:13:36,643 --> 00:13:38,445
+Never trust anyone named after a city.
 
 409
-00:35:12,604 --> 00:35:13,604
-Foi.
+00:13:38,481 --> 00:13:40,567
+- What about Orlando Bloom?
+- I never thought about him being named
 
 410
-00:35:14,354 --> 00:35:16,896
-Nunca deixaria a pessoa
-que fez isso fugir.
+00:13:40,611 --> 00:13:42,656
+after the city before,
+and his last name is Bloom?
 
 411
-00:35:18,063 --> 00:35:20,771
-E espero que possa encontrar
-alguma paz nisso.
+00:13:42,700 --> 00:13:44,702
+Wait a minute. Did we just
+realize something crazy?
 
 412
-00:35:33,771 --> 00:35:34,771
-Eu tirei essa.
+00:13:44,745 --> 00:13:47,005
+No, everyone knows it's a crazy name.
 
 413
-00:35:35,604 --> 00:35:37,479
-Quando voltamos da primeira missão.
+00:13:47,041 --> 00:13:48,390
+Now can we just focus on the meet-up?
 
 414
-00:35:41,313 --> 00:35:42,646
-Não havia ninguém como ele.
+00:13:48,426 --> 00:13:49,924
+- Fine.
+- All right, Dallas is creepy
 
 415
-00:35:43,604 --> 00:35:44,979
-Lemar sabia dos riscos.
+00:13:49,968 --> 00:13:52,492
+and paranoid, and he really
+freaked me out that last time.
 
 416
-00:35:46,146 --> 00:35:48,688
-Depois de tudo que vocês passaram juntos,
+00:13:52,536 --> 00:13:54,364
+- I don't want to go in alone.
+- Don't worry, kid.
 
 417
-00:35:49,854 --> 00:35:52,563
-sei que ele está descansando melhor
+00:13:54,407 --> 00:13:56,255
+I'll be there right
+next to you, as always.
 
 418
-00:35:52,646 --> 00:35:54,979
-sabendo que o homem responsável
+00:13:56,291 --> 00:13:58,368
+Aw. Sarge, why don't you
+say stuff like that to me?
 
 419
-00:35:56,479 --> 00:35:57,854
-recebeu o que merecia.
+00:13:58,411 --> 00:14:01,458
+No, look, I do not trust the
+Judys going anywhere alone.
 
 420
-00:35:59,563 --> 00:36:02,146
-Ele ficou tão orgulhoso de você
+00:14:01,706 --> 00:14:03,242
+Doug, you stay with Jake.
+I'll go in with Trudy.
 
 421
-00:36:03,438 --> 00:36:05,396
-quando te fizeram Capitão América.
+00:14:03,286 --> 00:14:04,591
+I just need a cover story.
 
 422
-00:36:06,479 --> 00:36:09,146
-E me dizia todos os dias,
+00:14:04,635 --> 00:14:05,977
+We could say that you're my boyfriend.
 
 423
-00:36:10,229 --> 00:36:12,938
-que honra era ser seu parceiro.
+00:14:06,013 --> 00:14:07,246
+No. No, no, no, I don't want
 
 424
-00:36:14,729 --> 00:36:16,063
-Significava tudo para ele.
+00:14:07,290 --> 00:14:09,055
+my little sister
+fake-dating some pervert.
 
 425
-00:36:22,771 --> 00:36:23,813
-E para mim também.
+00:14:09,091 --> 00:14:10,552
+What? Why am I a pervert?
 
 426
-00:36:34,479 --> 00:36:35,479
-Sinto muito.
+00:14:10,588 --> 00:14:12,033
+Uh, have you ever met a nice, normal guy
 
 427
-00:36:38,313 --> 00:36:41,188
-Se precisarem de mim,
-podem sempre contar comigo.
+00:14:12,077 --> 00:14:13,818
+that wears suspenders every day?
 
 428
-00:36:43,313 --> 00:36:44,479
-Está bem.
+00:14:13,861 --> 00:14:15,296
+What kind of person
+has to tie their pants down
 
 429
-00:37:05,688 --> 00:37:12,646
-JOHN WALKER
-O CAPITÃO VOLTOU
+00:14:15,332 --> 00:14:16,603
+to keep them from flying off?
 
 430
-00:37:17,021 --> 00:37:18,188
-Tenho trabalho para você.
+00:14:16,647 --> 00:14:18,361
+That's not what suspenders are for, man.
 
 431
-00:37:19,438 --> 00:37:22,813
-Por favor. Se não fosse eu,
-estaria apodrecendo na prisão.
+00:14:18,397 --> 00:14:19,606
+Guys, we don't have time
 
 432
-00:37:28,938 --> 00:37:30,104
-Terminou?
+00:14:19,650 --> 00:14:21,696
+to figure out what suspenders
+are for, all right?
 
 433
-00:37:32,979 --> 00:37:34,604
-Posso te dar o dobro desta vez.
+00:14:21,732 --> 00:14:23,306
+Now, Trudy, this is undercover work.
 
 434
-00:37:35,688 --> 00:37:37,604
-Prometo que não vai se arrepender.
+00:14:23,349 --> 00:14:25,090
+It can be very intense.
+Are you sure you can handle it?
 
 435
-00:37:38,188 --> 00:37:39,354
-Então, vai aceitar?
+00:14:25,133 --> 00:14:27,614
+I mean, I'll do my best.
 
 436
-00:37:53,563 --> 00:37:55,021
-Ei!
+00:14:27,860 --> 00:14:29,992
+- Who's this?
+- This is Deion. He's my man.
 
 437
-00:37:55,104 --> 00:37:56,521
-Ponha de volta.
+00:14:30,028 --> 00:14:32,838
+Ask me another question,
+you simple little barn animal.
 
 438
-00:37:56,604 --> 00:37:58,229
-Depressa, depressa!
+00:14:32,874 --> 00:14:34,527
+Okay, so she can handle it.
 
 439
-00:38:51,938 --> 00:38:52,938
-Empurre a bucha.
+00:14:34,563 --> 00:14:35,622
+Why is your boyfriend here?
 
 440
-00:38:54,688 --> 00:38:55,688
-Lá dentro.
+00:14:35,666 --> 00:14:38,040
+Who said boyfriend? Deion and I freak,
 
 441
-00:39:02,813 --> 00:39:04,896
-- Obrigado.
-- Sim.
+00:14:38,076 --> 00:14:39,441
+then he shuts his pretty little mouth
 
 442
-00:39:08,604 --> 00:39:11,229
-Ei. Comece a afrouxar os parafusos.
+00:14:39,477 --> 00:14:40,845
+and lets me handle my business.
 
 443
-00:39:11,604 --> 00:39:12,604
-Pode deixar.
+00:14:40,888 --> 00:14:42,496
+I don't like the direction
+this is going.
 
 444
-00:39:21,521 --> 00:39:22,521
-Está bem, então...
+00:14:42,532 --> 00:14:43,804
+Easy. She's just playing a part.
 
 445
-00:39:22,604 --> 00:39:23,813
-Com licença. Não!
+00:14:43,848 --> 00:14:45,284
+Pretty big age difference here.
 
 446
-00:39:23,896 --> 00:39:26,979
-Deve ter um parafuso maior
-que vai na engrenagem.
+00:14:45,328 --> 00:14:46,981
+- Where'd you guys meet?
+- The club.
 
 447
-00:39:27,063 --> 00:39:28,563
-- Não.
-- Não. Não, não.
+00:14:47,025 --> 00:14:48,548
+Deion was a bouncer,
 
 448
-00:39:28,646 --> 00:39:30,438
-- Você nem olhou.
-- Não preciso.
+00:14:48,592 --> 00:14:51,421
+and I told him I wanted
+him to bounce on me.
 
 449
-00:39:33,063 --> 00:39:34,063
-Oi, Sarah.
+00:14:51,464 --> 00:14:52,770
+Oh, what is that?
 
 450
-00:39:34,146 --> 00:39:36,021
-Disse especificamente que a bomba d'água
+00:14:52,813 --> 00:14:54,075
+Is she rubbing on his mic?
 
 451
-00:39:36,104 --> 00:39:37,938
-não era o problema, e aqui está você.
+00:14:54,119 --> 00:14:55,816
+The mic that was taped to his chest?
 
 452
-00:39:38,021 --> 00:39:39,188
-É, Samuel.
+00:14:55,860 --> 00:14:57,296
+You should feel these.
 
 453
-00:39:39,271 --> 00:39:40,563
-Em nossa defesa,
+00:14:57,340 --> 00:14:58,993
+They're like two baseball bases.
 
 454
-00:39:40,646 --> 00:39:42,979
-devíamos ter terminado
-antes de você acordar.
+00:14:59,037 --> 00:15:00,517
+Make 'em pop, daddy.
 
 455
-00:39:43,063 --> 00:39:44,313
-Eu não vou ao céu
+00:15:00,560 --> 00:15:01,953
+Daddy's not sure this is the time.
 
 456
-00:39:44,396 --> 00:39:46,938
-te ensinar como voar,
-por isso não desça aqui
+00:15:01,996 --> 00:15:03,081
+Do it, daddy!
 
 457
-00:39:47,021 --> 00:39:49,104
-e se meta com coisas que não entende.
+00:15:03,520 --> 00:15:05,422
+Ooh, ow! Ooh, ow!
 
 458
-00:39:50,021 --> 00:39:51,979
-Tchau. Fora.
+00:15:05,652 --> 00:15:07,328
+Get your hands off her, pervert!
 
 459
-00:39:52,063 --> 00:39:53,063
-Obrigada, senhores.
+00:15:07,364 --> 00:15:09,000
+Judy! Judy! I tried to stop him.
 
 460
-00:39:53,146 --> 00:39:54,563
-Agradeço a vocês.
+00:15:09,036 --> 00:15:10,396
+That's my baby sister you're caressing.
 
 461
-00:39:54,646 --> 00:39:55,646
-Eu te amo, mano.
+00:15:10,440 --> 00:15:13,147
+What? How can I caress her with my pecs?
 
 462
-00:39:59,271 --> 00:40:01,188
-Ela é uma pessoa muito má.
+00:15:13,183 --> 00:15:14,615
+Look at those things. They got thumbs.
 
 463
-00:40:01,271 --> 00:40:02,313
-É amor de irmã.
+00:15:14,651 --> 00:15:16,708
+Guys, guys, stop! Where is Dallas?
 
 464
-00:40:02,396 --> 00:40:04,146
-Não. Se fizesse o que eu disse,
+00:15:16,744 --> 00:15:18,372
+I think he got spooked and ran away.
 
 465
-00:40:04,229 --> 00:40:06,479
-teríamos terminado
-antes disso ter ocorrido.
+00:15:18,408 --> 00:15:19,666
+Good job, Doug Judy.
 
 466
-00:40:06,563 --> 00:40:08,313
-Não existe isso.
+00:15:19,710 --> 00:15:21,842
+You just cost your sister
+a chance at a reduced sentence.
 
 467
-00:40:08,396 --> 00:40:11,021
-Há uma destreza na minha loucura.
+00:15:21,886 --> 00:15:24,889
+Oh, no! Why is my tone so playful?
 
 468
-00:40:25,313 --> 00:40:26,313
-É estranho...
+00:15:24,932 --> 00:15:26,673
+Why is there a twinkle in my eye?
 
 469
-00:40:27,438 --> 00:40:28,479
-Pegá-lo de novo.
+00:15:26,717 --> 00:15:33,027
+Because I just found our
+1961 Ferrari 250GT California.
 
 470
-00:40:32,729 --> 00:40:34,646
-O legado desse escudo
+00:15:33,071 --> 00:15:34,464
+Oh, ho, ho!
 
 471
-00:40:35,771 --> 00:40:37,979
-é, no mínimo, complicado.
+00:15:34,507 --> 00:15:36,553
+Ladies and gents and pervert Terry,
 
 472
-00:40:40,188 --> 00:40:43,479
-Quando o Steve me disse o que planejava,
-acho que não entendíamos
+00:15:36,596 --> 00:15:38,163
+we are in business.
 
 473
-00:40:43,563 --> 00:40:46,521
-como seria para um homem negro
-receber o escudo.
+00:15:38,206 --> 00:15:40,513
+Sorry, Sarge, I got caught up
+in the moment there.
 
 474
-00:40:48,521 --> 00:40:49,521
-Como poderíamos?
+00:15:40,557 --> 00:15:42,385
+- _
+- Guys, I threw up.
 
 475
-00:40:50,646 --> 00:40:51,646
-Te devo desculpas.
+00:15:42,428 --> 00:15:43,864
+Oh, man, it's over.
 
 476
-00:40:54,771 --> 00:40:55,813
-Sinto muito.
+00:15:43,908 --> 00:15:45,518
+- We need a miracle.
+- I'm here.
 
 477
-00:40:57,896 --> 00:40:58,896
-Obrigado.
+00:15:45,562 --> 00:15:47,162
+Captain Holt! How are you here?
 
 478
-00:41:02,479 --> 00:41:05,729
-O que aconteceu com o Walker,
-não foi culpa sua.
+00:15:47,198 --> 00:15:48,695
+You called me.
+You didn't stop calling me.
 
 479
-00:41:07,563 --> 00:41:08,563
-Eu entendo.
+00:15:48,739 --> 00:15:50,784
+I didn't call you. Look.
 
 480
-00:41:09,396 --> 00:41:10,771
-É só que esse escudo
+00:15:50,828 --> 00:15:52,612
+You left 17 voicemails.
 
 481
-00:41:12,229 --> 00:41:14,396
-é a coisa mais próxima
-que tenho de família,
+00:15:52,656 --> 00:15:53,874
+Here's one.
 
 482
-00:41:16,188 --> 00:41:17,563
-então, quando o aposentou,
+00:15:53,918 --> 00:15:56,351
+<i>Holt! You got to come save us.</i>
 
 483
-00:41:19,396 --> 00:41:21,521
-eu senti que não tinha restado mais nada.
+00:15:56,387 --> 00:15:57,704
+<i>We need a lie to get you here.</i>
 
 484
-00:41:22,896 --> 00:41:24,313
-Me fez questionar tudo.
+00:15:57,748 --> 00:15:58,879
+<i>Charles, what should I say?</i>
 
 485
-00:41:25,021 --> 00:41:28,063
-Você, Steve, eu.
+00:15:58,923 --> 00:16:00,446
+<i>That I got shot in the face.</i>
 
 486
-00:41:29,688 --> 00:41:31,063
-Sabe, eu tenho o...
+00:16:00,490 --> 00:16:02,379
+<i>Ooh, and tell him to bring pizza.</i>
 
 487
-00:41:31,771 --> 00:41:32,938
-Tenho o caderno dele.
+00:16:02,415 --> 00:16:04,025
+Whoo! Crampon Holt!
 
 488
-00:41:34,021 --> 00:41:35,021
-E...
+00:16:04,061 --> 00:16:05,236
+We're losing.
 
 489
-00:41:36,396 --> 00:41:38,229
-Achei que se funcionava para ele,
+00:16:05,272 --> 00:16:07,018
+- Yeah!
+- Why are you dancing?
 
 490
-00:41:38,854 --> 00:41:39,938
-funcionaria para mim.
+00:16:07,061 --> 00:16:08,846
+Oh, I was up to nine-drink Amy,
 
 491
-00:41:44,188 --> 00:41:45,438
-Eu entendo, cara.
+00:16:08,889 --> 00:16:10,674
+who speaks French,
 
 492
-00:41:47,021 --> 00:41:48,146
-Mas o Steve se foi.
+00:16:10,717 --> 00:16:12,249
+and then I hurl...
 
 493
-00:41:52,604 --> 00:41:54,063
-E isso pode ser uma surpresa,
+00:16:12,763 --> 00:16:14,852
+I hurl... hurled.
 
 494
-00:41:56,146 --> 00:41:58,229
-mas não importa o que Steve pensava.
+00:16:14,895 --> 00:16:16,723
+What she's trying to say
+is that she vomited,
 
 495
-00:42:02,979 --> 00:42:06,104
-Pare de olhar para os outros
-para lhe dizer quem você é.
+00:16:16,767 --> 00:16:18,551
+and now she's back down
+to three-drink Amy,
 
 496
-00:42:10,854 --> 00:42:11,854
-Uma pergunta.
+00:16:18,595 --> 00:16:19,683
+or Amy Dance Pants.
 
 497
-00:42:13,021 --> 00:42:14,479
-Ainda tem os pesadelos?
+00:16:19,726 --> 00:16:20,793
+You know it.
 
 498
-00:42:15,521 --> 00:42:16,688
-O tempo todo.
+00:16:21,583 --> 00:16:22,816
+My God.
 
 499
-00:42:17,313 --> 00:42:18,938
-Significa que me lembro.
+00:16:22,860 --> 00:16:24,818
+Hitchcock, are you the only
+person still making sense?
 
 500
-00:42:19,021 --> 00:42:20,896
-Que uma parte de mim ainda está lá.
+00:16:24,862 --> 00:16:26,559
+Yeah. It's bad.
 
 501
-00:42:21,521 --> 00:42:24,021
-E que uma parte
-do Soldado Invernal também está.
+00:16:26,797 --> 00:16:29,234
+So are you gonna make us
+give up, Clappin?
 
 502
-00:42:29,479 --> 00:42:31,063
-Quer um pouco de amor de irmão?
+00:16:29,331 --> 00:16:30,737
+Or are you here to tell us to stop?
 
 503
-00:42:33,229 --> 00:42:35,104
-Se quer sair do inferno que está,
+00:16:30,781 --> 00:16:32,391
+No, I'm here to help you win.
 
 504
-00:42:36,104 --> 00:42:37,104
-faça o trabalho.
+00:16:32,427 --> 00:16:34,394
+What is happening? Why is this?
 
 505
-00:42:38,229 --> 00:42:39,229
-Faça.
+00:16:34,430 --> 00:16:35,873
+It's something you said
+on one of your voicemails,
 
 506
-00:42:40,438 --> 00:42:41,646
-Tenho feito reparações.
+00:16:35,916 --> 00:16:37,657
+after you had sung
+the entirety of a song
 
 507
-00:42:41,729 --> 00:42:44,354
-Não. Não estava reparando,
-estava se vingando.
+00:16:37,693 --> 00:16:39,600
+called "Shake Whatcha Mama Gave Ya."
 
 508
-00:42:44,438 --> 00:42:48,063
-Estava parando todos os bandidos
-que ajudou como o Soldado Invernal,
+00:16:39,636 --> 00:16:41,289
+You thought you had hung up,
+but you hadn't.
 
 509
-00:42:48,729 --> 00:42:50,854
-pois pensou que lhe traria um ponto final.
+00:16:41,441 --> 00:16:44,882
+<i>Anyway, bye-bye.
+What am I doing calling him?</i>
 
 510
-00:42:54,563 --> 00:42:56,813
-Vai para essas pessoas e diz "desculpe",
+00:16:44,925 --> 00:16:47,537
+<i>He doesn't care about us
+or what we want.</i>
 
 511
-00:42:57,813 --> 00:43:00,521
-porque acha que vai fazer
-você se sentir melhor, certo?
+00:16:47,580 --> 00:16:49,408
+When I heard that,
+I was shaken to my core.
 
 512
-00:43:02,354 --> 00:43:04,188
-Mas tem que fazê-los se sentir melhor.
+00:16:49,666 --> 00:16:51,319
+I thought this bar was beneath me,
 
 513
-00:43:04,271 --> 00:43:06,604
-Você tem que ir até eles e ser útil.
+00:16:51,355 --> 00:16:53,760
+but what was actually beneath
+me was my own behavior.
 
 514
-00:43:07,896 --> 00:43:10,854
-Deve haver pelo menos uma pessoa
-nesse caderno
+00:16:53,804 --> 00:16:55,762
+- I had turned my back on...
+- Holt!
 
 515
-00:43:10,938 --> 00:43:12,479
-que precisa de encerramento,
+00:16:55,806 --> 00:16:57,460
+We do not have time for this.
 
 516
-00:43:12,563 --> 00:43:15,729
-e você é o único que pode dar isso.
+00:16:57,503 --> 00:16:58,939
+Just drinky, drinky!
 
 517
-00:43:15,813 --> 00:43:17,521
-Provavelmente uma dúzia.
+00:16:58,983 --> 00:17:03,422
+Hank, bring me a Charbonnay.
 
 518
-00:43:17,604 --> 00:43:18,646
-Isso é legal.
+00:17:04,089 --> 00:17:06,504
+All right, Stefano should
+be here any minute.
 
 519
-00:43:19,396 --> 00:43:20,396
-Comece com uma.
+00:17:06,556 --> 00:17:07,992
+I just want to thank you guys
+so much for helping me.
 
 520
-00:43:25,604 --> 00:43:26,604
-Boa conversa.
+00:17:08,035 --> 00:17:09,515
+I don't deserve your kindness.
 
 521
-00:43:31,229 --> 00:43:32,688
-Sabe que Karli não vai desistir.
+00:17:09,559 --> 00:17:10,951
+Hey, don't be so hard on yourself.
 
 522
-00:43:33,646 --> 00:43:36,229
-Me liga quando tiver uma pista,
-e estarei lá.
+00:17:10,995 --> 00:17:12,823
+We all make bad decisions
+when we're younger.
 
 523
-00:43:39,354 --> 00:43:40,729
-Não necessariamente como time.
+00:17:12,866 --> 00:17:14,825
+- I was once in a flash mob.
+- Ew.
 
 524
-00:43:40,813 --> 00:43:41,813
-Não.
+00:17:14,868 --> 00:17:16,286
+Something's off about this.
 
 525
-00:43:41,896 --> 00:43:43,563
-- Nem somos bons.
-- Com certeza não.
+00:17:16,322 --> 00:17:17,741
+I don't like leaving Judy
+out there alone.
 
 526
-00:43:43,646 --> 00:43:45,229
-- Profissionais.
-- Com certeza.
+00:17:17,784 --> 00:17:19,271
+Relax, we have a tracker on the car,
 
 527
-00:43:45,313 --> 00:43:48,479
-- E somos parceiros.
-- Colegas de trabalho.
+00:17:19,307 --> 00:17:20,613
+a tracker on Doug Judy,
 
 528
-00:43:48,563 --> 00:43:51,313
-Mas também somos dois caras
-com um amigo em comum.
+00:17:20,657 --> 00:17:22,746
+and ESU has the entire area surrounded.
 
 529
-00:43:51,396 --> 00:43:53,479
-- O amigo já se foi.
-- Então, somos dois caras.
+00:17:22,789 --> 00:17:24,617
+- It's gonna be fine.
+- We got movement.
 
 530
-00:43:53,563 --> 00:43:54,896
-- Aceito isso.
-- Perfeito.
+00:17:24,661 --> 00:17:26,619
+Okay, everyone, to your positions.
 
 531
-00:43:56,688 --> 00:43:58,521
-Obrigado pela ajuda, cara.
+00:17:26,663 --> 00:17:27,881
+On my signal.
 
 532
-00:43:58,604 --> 00:44:00,271
-Significou muito.
+00:17:27,925 --> 00:17:30,308
+Hold. Hold.
 
 533
-00:44:00,354 --> 00:44:01,354
-Claro.
+00:17:30,580 --> 00:17:32,233
+Hold.
 
 534
-00:44:39,479 --> 00:44:41,188
-Só tem uma coisa para fazer.
+00:17:32,428 --> 00:17:34,082
+Sorry, I started holding too soon.
 
 535
-00:44:41,646 --> 00:44:42,646
-Que bom.
+00:17:34,118 --> 00:17:35,976
+Let's start over. Hold.
 
 536
-00:44:48,646 --> 00:44:49,688
-Pare. Não.
+00:17:36,333 --> 00:17:37,674
+Hold.
 
 537
-00:44:55,146 --> 00:44:56,146
-Não podemos vendê-lo.
+00:17:37,717 --> 00:17:39,197
+And...
 
 538
-00:44:57,188 --> 00:44:59,729
-Eu sei. Conheço o discurso.
-Não é inteligente, mas...
+00:17:40,851 --> 00:17:43,658
+Everyone, stop holding! Go, go, go, go!
 
 539
-00:45:02,104 --> 00:45:03,104
-Só não consigo.
+00:17:44,508 --> 00:17:46,151
+Where is he? Where is he?
 
 540
-00:45:04,688 --> 00:45:08,313
-Sarah, estou tão feliz
-em ouvi-la dizer isso.
+00:17:46,300 --> 00:17:48,120
+Got him. They got Stefano.
 
 541
-00:45:09,854 --> 00:45:11,521
-Temos que preservar isso.
+00:17:48,163 --> 00:17:50,252
+No, not Stefano. The Pontiac Bandit.
 
 542
-00:45:13,229 --> 00:45:16,771
-Se tem uma coisa que aprendi,
-é que não posso vencer todas as brigas.
+00:17:50,296 --> 00:17:52,080
+- Where is...
+- Doug Judy here.
 
 543
-00:45:16,854 --> 00:45:19,313
-E tudo bem.
-Estou bem com isso. Mas isso...
+00:17:52,272 --> 00:17:53,578
+Y'all see that car blow up?
 
 544
-00:45:21,104 --> 00:45:22,146
-É a nossa história.
+00:17:53,614 --> 00:17:55,456
+Yeah, we did. Why did you do that?
 
 545
-00:45:23,688 --> 00:45:24,938
-Não podemos perder essa.
+00:17:55,492 --> 00:17:56,690
+You think I did that?
 
 546
-00:45:26,979 --> 00:45:30,938
-Todas a nossa luta como um povo,
-penso nisso e dizia:
+00:17:56,726 --> 00:17:58,086
+Doug Judy does not work with fire.
 
 547
-00:45:31,021 --> 00:45:33,729
-"Vou mostrar a eles.
-Vou sair e mudar o mundo."
+00:17:58,130 --> 00:17:59,740
+Yeah, he's like the Hound
+from "Game of Thrones."
 
 548
-00:45:35,396 --> 00:45:37,063
-Sim, bobo, eu sei,
+00:17:59,784 --> 00:18:02,102
+I am like the Hound. And you're my Arya.
 
 549
-00:45:38,396 --> 00:45:39,938
-mas quando olhava em seus olhos,
+00:18:02,138 --> 00:18:03,309
+- Right?
+- Guys!
 
 550
-00:45:40,021 --> 00:45:43,229
-sabia que estava sempre pensando
-que eu estava fugindo.
+00:18:03,352 --> 00:18:05,790
+If Doug Judy didn't blow up
+the car, who did?
 
 551
-00:45:48,438 --> 00:45:49,438
-Sam, me escute.
+00:18:07,799 --> 00:18:09,663
+Trudy Judy.
 
 552
-00:45:50,813 --> 00:45:53,771
-Nunca na minha vida
-pensei que estivesse fugindo.
+00:18:10,431 --> 00:18:11,431
+_
 
 553
-00:45:54,646 --> 00:45:55,646
-De qualquer coisa.
+00:18:14,146 --> 00:18:16,627
+Damn, sir, you took
+that Charbonnay to the house.
 
 554
-00:45:55,729 --> 00:45:59,146
-Nem mesmo quando estava discutindo
-com você no banco.
+00:18:16,670 --> 00:18:18,455
+- How you feeling?
+- Let me take stock.
 
 555
-00:46:02,188 --> 00:46:03,771
-Quem diria que era tão sensível.
+00:18:18,498 --> 00:18:20,282
+My equilibrium is askew,
 
 556
-00:46:06,396 --> 00:46:07,938
-Deus, senti tanta falta de você.
+00:18:20,326 --> 00:18:22,459
+my vision is partially impaired,
 
 557
-00:46:14,188 --> 00:46:17,146
-Há uma luta lá fora,
-e depois, há a nossa luta aqui,
+00:18:22,502 --> 00:18:24,286
+and I'm clearly slurring my words.
 
 558
-00:46:17,229 --> 00:46:19,271
-e, mano, você pegou as duas.
+00:18:24,330 --> 00:18:26,375
+To put a fine point on it,
+your boy is turnt.
 
 559
-00:46:23,729 --> 00:46:26,146
-Então vai deixar
-o Isaiah entrar na sua cabeça?
+00:18:26,419 --> 00:18:28,799
+Well, well, well,
+there's only a minute left,
 
 560
-00:46:26,771 --> 00:46:29,229
-Vai deixá-lo decidir o que faz a seguir?
+00:18:28,835 --> 00:18:30,467
+and you are six bucks down.
 
 561
-00:46:29,313 --> 00:46:31,313
-O Isaiah foi para o inferno e voltou.
+00:18:30,510 --> 00:18:31,729
+I don't think you guys
+are gonna make it.
 
 562
-00:46:31,396 --> 00:46:34,271
-Se estivesse no lugar dele,
-sentiria exatamente o mesmo.
+00:18:31,937 --> 00:18:33,132
+Hank, another Charb.
 
 563
-00:46:35,813 --> 00:46:39,604
-Mas qual seria o sentido
-de toda a dor e sacrifício
+00:18:33,600 --> 00:18:35,472
+This one's hot.
+It was sitting on the radiator.
 
 564
-00:46:40,896 --> 00:46:43,354
-se não estivesse disposto
-a me erguer e lutar?
+00:18:40,651 --> 00:18:42,740
+- He's never gonna make it.
+- Yes, he will.
 
 565
-00:47:27,313 --> 00:47:28,313
-O dia todo, querido.
+00:18:42,783 --> 00:18:45,612
+Just don't breathe.
+Let the liquid into your lungs.
 
 566
-00:47:28,396 --> 00:47:29,938
-- Tio Sam!
-- Tio Sam!
+00:18:47,935 --> 00:18:51,792
+Five, four, three, two...
 
 567
-00:47:31,229 --> 00:47:32,229
-Pegue-o, AJ!
+00:18:51,836 --> 00:18:53,315
+Closing time! Cops win!
 
 568
-00:48:36,438 --> 00:48:37,646
-O que fazemos aqui?
+00:18:57,276 --> 00:19:00,714
+All right, fine, the bar is yours.
 
 569
-00:48:38,146 --> 00:48:40,479
-Consegui ajuda para equilibrar as coisas.
+00:19:00,758 --> 00:19:04,352
+But we're keeping this!
 
 570
-00:48:41,771 --> 00:48:44,438
-Sam ferrou ele de uma pequena fortuna
-há pouco tempo.
+00:19:04,388 --> 00:19:05,545
+Come on.
 
 571
-00:48:44,521 --> 00:48:46,646
-Está sedento por vingança desde então.
+00:19:05,589 --> 00:19:07,591
+Before we all go home and pass out,
 
 572
-00:48:49,354 --> 00:48:50,396
-Eu tenho o que você quer.
+00:19:07,634 --> 00:19:10,550
+I want to say how sorry I am
+that I deserted you earlier.
 
 573
-00:48:59,646 --> 00:49:00,646
-Qual é.
+00:19:10,594 --> 00:19:13,597
+I want you to know that I care
+about you all so very much,
 
 574
-00:49:00,729 --> 00:49:02,979
-Então, trabalhamos com criminosos agora?
+00:19:13,640 --> 00:19:14,902
+each and every one of you.
 
 575
-00:49:03,063 --> 00:49:04,063
-Você não soube?
+00:19:14,946 --> 00:19:17,726
+Boyle, Santiago, Diaz, Hitchcock, Scu...
 
 576
-00:49:04,813 --> 00:49:05,813
-Nós somos criminosos.
+00:19:20,473 --> 00:19:22,475
+All right, I have officers
+looking for her.
 
 577
-00:49:06,688 --> 00:49:08,854
-George é vingado e temos um assassino.
+00:19:22,519 --> 00:19:24,259
+She was on foot.
+She couldn't have gone far.
 
 578
-00:49:08,938 --> 00:49:10,396
-É uma pechincha dupla.
+00:19:24,303 --> 00:19:26,392
+This is her.
 
 579
-00:49:11,813 --> 00:49:14,021
-Me convidou aqui para um piquenique
-ou o quê?
+00:19:26,435 --> 00:19:28,568
+- Where are you, Trudy?
+- In the wind, Dougie.
 
 580
-00:49:14,104 --> 00:49:15,604
-Um teste, de certa forma.
+00:19:28,612 --> 00:19:30,527
+Okay, that's a cool thing to
+say, but what are you doing?
 
 581
-00:49:15,688 --> 00:49:18,188
-Estamos em toda parte e em lugar algum.
-É por isso que vamos vencer.
+00:19:30,570 --> 00:19:31,745
+They were gonna reduce your charges.
 
 582
-00:49:19,021 --> 00:49:20,021
-INATIVO
+00:19:31,789 --> 00:19:33,442
+Reduced charges are still charges,
 
 583
-00:49:20,104 --> 00:49:21,104
-ATIVO
+00:19:33,486 --> 00:19:34,835
+and I can't go to prison.
 
 584
-00:49:30,021 --> 00:49:32,063
-Vamos garantir que a votação não aconteça.
+00:19:34,879 --> 00:19:37,882
+There are no dudes there,
+and I need to smush!
 
 585
-00:49:32,146 --> 00:49:33,271
-Ei.
+00:19:37,925 --> 00:19:39,536
+- Trudy!
+- Oh, grow up, Doug.
 
 586
-00:49:33,354 --> 00:49:35,104
-Não estou aqui
-para fazer parte do seu movimento.
+00:19:39,579 --> 00:19:41,538
+I'm an adult woman
+who's horny all the time.
 
 587
-00:49:35,229 --> 00:49:37,313
-Só estou aqui para matar o Falcão.
+00:19:41,581 --> 00:19:43,801
+- What is going on?
+- Oh, are you judging me, ho?
 
 588
-00:49:37,396 --> 00:49:38,521
-Terá sua chance.
+00:19:43,844 --> 00:19:45,367
+Trudy, running from
+the cops is a felony.
 
 589
-00:49:48,063 --> 00:49:49,354
-Hoje, vamos à batalha.
+00:19:45,411 --> 00:19:46,803
+That means no more nursing school.
 
 590
-00:49:51,104 --> 00:49:52,146
-Todos nós.
+00:19:46,839 --> 00:19:48,014
+Good. It sucked.
 
 591
-00:50:02,396 --> 00:50:07,479
-Em Nova York, onde o CRG está votando
-no controverso Ato de Remendo,
+00:19:48,050 --> 00:19:49,245
+I only went to, like, one class.
 
 592
-00:50:07,563 --> 00:50:10,063
-que levaria vinte milhões de refugiados
+00:19:49,281 --> 00:19:50,799
+- What?
+- It was boring as hell.
 
 593
-00:50:10,146 --> 00:50:12,521
-de volta para os seus países de origem.
+00:19:50,835 --> 00:19:52,818
+So then I started
+running Internet scams.
 
 594
-00:50:12,604 --> 00:50:16,271
-Está chegando durante tempos difíceis
-da política internacional.
+00:19:52,854 --> 00:19:54,072
+Then there was identity theft.
 
 595
-00:50:16,354 --> 00:50:18,771
-Desculpe, por demorar.
-Poupo os detalhes técnicos,
+00:19:54,108 --> 00:19:55,464
+I was Queen Latifah for a bit.
 
 596
-00:50:18,854 --> 00:50:21,271
-mas finalmente
-obtive resultados do que pediu,
+00:19:55,508 --> 00:19:57,379
+Then Lil' Kim. That was less believable.
 
 597
-00:50:21,354 --> 00:50:22,979
-e estamos no caminho certo.
+00:19:57,423 --> 00:19:59,947
+But then I found your old notebooks.
 
 598
-00:50:23,063 --> 00:50:24,646
-Quando olhamos, todos esses pings,
+00:19:59,991 --> 00:20:02,515
+How come you never told me
+how much fun car thieving is?
 
 599
-00:50:24,729 --> 00:50:27,021
-são lugares
-logo antes dos Apátridas atacarem,
+00:20:02,559 --> 00:20:04,378
+Because I didn't want you
+to fall in love with it.
 
 600
-00:50:27,104 --> 00:50:28,688
-claramente, estão pela Europa.
+00:20:04,414 --> 00:20:05,698
+Wait, I'm confused.
 
 601
-00:50:29,396 --> 00:50:31,813
-Hoje cedo, apareceu um em Nova York.
+00:20:05,734 --> 00:20:07,259
+When did you put the
+bomb in the Ferrari?
 
 602
-00:50:32,271 --> 00:50:35,021
-Não posso prometer
-que não estão usando um VPN
+00:20:07,302 --> 00:20:08,782
+I didn't do it. Dallas did.
 
 603
-00:50:35,104 --> 00:50:36,729
-ou mascarando a localização...
+00:20:08,826 --> 00:20:11,248
+And Dallas isn't some
+criminal I'm afraid of.
 
 604
-00:50:36,813 --> 00:50:37,896
-Bom trabalho, Joaquin.
+00:20:11,284 --> 00:20:13,199
+He's my employee. Say what's up, Dallas.
 
 605
-00:50:39,479 --> 00:50:40,646
-Eu assumo daqui.
+00:20:13,235 --> 00:20:14,962
+- Wassup?
+- Named after a city.
 
 606
-00:50:42,396 --> 00:50:45,188
-NOVA YORK
+00:20:15,006 --> 00:20:16,573
+The hard part was trying to figure out
 
 607
-00:50:45,271 --> 00:50:48,646
-Olha, as pessoas certas
-vão concordar, sempre vão...
+00:20:16,616 --> 00:20:18,267
+how to tell him my plan,
+so then I came up
 
 608
-00:50:48,729 --> 00:50:50,563
-Tem que considerar a ótica.
+00:20:18,303 --> 00:20:19,532
+with that whole boyfriend thing,
 
 609
-00:50:50,646 --> 00:50:52,479
-Não, a ótica é o que mostramos.
+00:20:19,576 --> 00:20:21,273
+because I needed a distraction.
 
 610
-00:50:52,563 --> 00:50:55,313
-Eles têm que acreditar
-no que fazemos para nos apoiar.
+00:20:21,316 --> 00:20:23,014
+I knew you'd rush in,
+all weird and old-fashioned,
 
 611
-00:50:55,396 --> 00:50:58,313
-Precisamos mesmo nos preocupar
-com uma votação?
+00:20:23,057 --> 00:20:24,581
+try to protect my honor.
 
 612
-00:50:59,646 --> 00:51:02,146
-Há tropas à postos.
+00:20:24,624 --> 00:20:26,757
+How can I caress her with my pecs?
 
 613
-00:51:03,271 --> 00:51:06,729
-Faço uma ligação
-e mando os refugiados se moverem agora.
+00:20:26,800 --> 00:20:28,585
+Look at those things. They got thumbs.
 
 614
-00:51:06,813 --> 00:51:08,896
-Não vamos juntá-los como gado.
+00:20:28,628 --> 00:20:30,238
+I don't need you to protect me, Doug.
 
 615
-00:51:08,979 --> 00:51:11,771
-E nós ainda não temos recursos suficientes
+00:20:30,282 --> 00:20:31,457
+You're my baby sister.
 
 616
-00:51:11,854 --> 00:51:14,188
-nos campos de reassentamento.
+00:20:31,500 --> 00:20:32,719
+I got to look out for you.
 
 617
-00:51:14,271 --> 00:51:15,813
-O que é suficiente?
+00:20:32,763 --> 00:20:35,026
+That's so sweet, and also dumb.
 
 618
-00:51:15,896 --> 00:51:17,813
-Não podem ficar onde estão para sempre.
+00:20:35,350 --> 00:20:37,091
+I'll see you at Christmas, sucker!
 
 619
-00:51:17,896 --> 00:51:19,271
-- Um mundo.
-- Um povo.
+00:20:37,127 --> 00:20:38,638
+I love you, big bro.
 
 620
-00:52:22,438 --> 00:52:24,979
-BASEADO NOS QUADRINHOS DA MARVEL
+00:20:38,682 --> 00:20:39,757
+Trudy!
 
 621
-00:54:12,229 --> 00:54:13,688
-MARVEL STUDIOS APRESENTA
+00:20:40,165 --> 00:20:42,468
+Man, I am gutted. This is awful.
 
 622
-00:54:14,854 --> 00:54:17,188
-FALCÃO E O SOLDADO INVERNAL
+00:20:42,511 --> 00:20:44,383
+Is this how you feel
+every time I trick you?
 
 623
-00:57:20,313 --> 00:57:22,313
-Legendas: Marya Bravo
+00:20:44,419 --> 00:20:46,102
+Pretty much. Yeah, it always hurts.
 
+624
+00:20:46,138 --> 00:20:47,340
+Wow, I'm sorry, man.
+
+625
+00:20:47,376 --> 00:20:48,777
+It must be really hard
+to hang out with me.
+
+626
+00:20:48,813 --> 00:20:50,781
+Well, it's a tough relationship,
+but it's exciting.
+
+627
+00:20:50,824 --> 00:20:52,633
+Hey, Doug, I'm sorry
+for not trusting you.
+
+628
+00:20:52,669 --> 00:20:54,216
+Turns out you had
+nothing to do with this.
+
+629
+00:20:54,252 --> 00:20:56,787
+Oh, so you admit people can change.
+
+630
+00:20:56,830 --> 00:20:59,528
+Yes. Bruce Banner's pants
+and shirt were correct.
+
+631
+00:20:59,572 --> 00:21:01,008
+You know what this means, right?
+
+632
+00:21:01,343 --> 00:21:02,905
+6,203.
+
+633
+00:21:02,941 --> 00:21:04,925
+6,204.
+
+634
+00:21:04,969 --> 00:21:06,753
+I am so glad I lost this bet.
+
+635
+00:21:06,797 --> 00:21:08,625
+I never find time for things I enjoy.
+
+636
+00:21:08,668 --> 00:21:09,886
+This is so unsatisfying.
+
+637
+00:21:09,922 --> 00:21:11,162
+You're not even sweating.
+
+638
+00:21:11,198 --> 00:21:12,766
+It's too easy. Get on my back, Jake.
+
+639
+00:21:12,802 --> 00:21:14,219
+- No, I'm not...
+- Get on my back, Jake!
+
+640
+00:21:14,255 --> 00:21:15,778
+Coming, strong man!
+
+641
+00:21:16,937 --> 00:21:20,937
+<font color="#741b47">Sync & corrections by </font><font color="#ead1dc">emeline-whovian</font>
+<font color="#741b47">www.addic7ed.com</font>
+
+9999
+00:00:0,500 --> 00:00:2,00
+<font color="#ffff00" size=14>www.tvsubtitles.net</font>

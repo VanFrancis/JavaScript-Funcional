@@ -1,0 +1,1 @@
+www.legendas.tv
